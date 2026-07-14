@@ -23,6 +23,8 @@ STATIC_IV = b"HsjJTCA7jJztpL2w"
 os.makedirs(OUT_DIR, exist_ok=True)
 os.makedirs(os.path.join(OUT_DIR, "cats"), exist_ok=True)
 os.makedirs(os.path.join(OUT_DIR, "channels"), exist_ok=True)
+os.makedirs(os.path.join(OUT_DIR, "event_channels"), exist_ok=True)
+os.makedirs(os.path.join(OUT_DIR, "highlight_channels"), exist_ok=True)
 os.makedirs(os.path.join(OUT_DIR, "highlights"), exist_ok=True)
 
 def clean_and_decode_b64(encrypted_b64):
@@ -45,7 +47,6 @@ def decrypt_cbc(ciphertext_bytes, key, iv):
     return decrypted
 
 def fetch_and_decrypt_json(url_path):
-    # Properly escape URL paths (handles spaces and special characters)
     escaped_path = urllib.parse.quote(url_path)
     url = f"{BASE_URL}{escaped_path}"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -71,7 +72,6 @@ def fetch_and_decrypt_json(url_path):
             dec_bytes = decrypt_cbc(enc_bytes, STATIC_KEY, STATIC_IV)
             
         dec_str = dec_bytes.decode("utf-8", errors="ignore")
-        # Clean trailing PKCS7 padding bytes just in case
         dec_str = dec_str.rstrip('\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f\x10')
         
         return json.loads(dec_str)
@@ -93,11 +93,15 @@ def write_api_specification(out_dir):
             "categories_and_channels_flow": {
                 "step_1_fetch_categories": "Fetch '/cats.json' to get the menu category list (e.g. Sports, Bangla, Entertainment).",
                 "step_2_fetch_subcategory_channels": "For any category, look at the 'catLink' field (e.g. 'cats/bangla.json'). Fetch this file from 'base_url + /cats/{catLink}' to get the channels in that category.",
-                "step_3_get_stream_details": "Each channel in the subcategory list has a unique 'id' (e.g. '1'). Fetch 'base_url + /channels/{id}.json' (e.g. '/channels/1.json') to get the decrypted M3U8 URLs, referers, and ClearKey DRM details."
+                "step_3_get_stream_details": "Each channel in the subcategory list has a unique 'id' (e.g. '7'). Fetch 'base_url + /channels/{id}.json' (e.g. '/channels/7.json') to get the decrypted M3U8 URLs, referers, and ClearKey DRM details."
             },
             "live_events_flow": {
                 "step_1_fetch_events": "Fetch '/events.json' to get the list of active/upcoming live sports matches.",
-                "step_2_get_stream_details": "Each live event has a unique 'id' (e.g. 50008). Fetch 'base_url + /channels/{id}.json' (e.g. '/channels/50008.json') to get the decrypted streaming links. Note: These event channels are created dynamically and are only accessible while the match is live."
+                "step_2_get_stream_details": "Each live event has a unique 'id' (e.g. 50008). Fetch 'base_url + /event_channels/{id}.json' (e.g. '/event_channels/50008.json') to get the decrypted streaming links. Note: These event channels are created dynamically and are only accessible while the match is live."
+            },
+            "highlights_flow": {
+                "step_1_fetch_highlights": "Fetch '/highlights.json' to get the list of available sports highlights.",
+                "step_2_get_stream_details": "Each highlight has a unique 'id' (e.g. 100027). Fetch 'base_url + /highlight_channels/{id}.json' (e.g. '/highlight_channels/100027.json') to get the decrypted highlights play links."
             },
             "simplified_single_request_flow": {
                 "recommendation": "If you are building a website or app and want to avoid multiple fetch requests for live events, fetch '/events_with_channels.json' directly. It has all active live matches pre-merged with their decrypted play links inside the 'decoded_channels' field."
@@ -115,9 +119,9 @@ def write_api_specification(out_dir):
                 },
                 "usage_flow": "Step 1: Fetch this file to render the menu. When the user selects a category, fetch its subcategory file from 'base_url + /cats/{catLink}'."
             },
-            "sports_channels": {
-                "path": "/cats/sports.json",
-                "description": "List of standard sports channels.",
+            "subcategory_channels": {
+                "path": "/cats/{catLink}.json",
+                "description": "List of channels inside a specific subcategory (e.g. sports, bangla).",
                 "fields": {
                     "id": "Unique channel identifier (e.g. '7')",
                     "title": "Channel display name",
@@ -134,7 +138,7 @@ def write_api_specification(out_dir):
                     "title": "Event title",
                     "eventInfo": "Object containing team names, flags, start time, and end time"
                 },
-                "usage_flow": "To play a live match/event: Fetch its stream links using 'base_url + /channels/{id}.json' (e.g. '/channels/50008.json')."
+                "usage_flow": "To play a live match/event: Fetch its stream links using 'base_url + /event_channels/{id}.json' (e.g. '/event_channels/50008.json')."
             },
             "live_events_combined": {
                 "path": "/events_with_channels.json",
@@ -156,7 +160,7 @@ def write_api_specification(out_dir):
                     "title": "Highlight title",
                     "image": "Highlight thumbnail URL"
                 },
-                "usage_flow": "To play a highlight: Fetch its stream links from 'base_url + /channels/{id}.json'."
+                "usage_flow": "To play a highlight: Fetch its stream links from 'base_url + /highlight_channels/{id}.json'."
             },
             "app_settings": {
                 "path": "/app_data.json",
@@ -207,9 +211,9 @@ def main():
         else:
             print(f"  [WARNING] Could not fetch or decrypt {filename}")
 
-    # 2. Fetch and Decrypt subcategory files
+    # 2. Fetch and Decrypt subcategory files and collect TV channel IDs
     cats_data = decrypted_main.get("cats.json", [])
-    unique_channel_ids = set()
+    tv_channel_ids = set()
     
     print("\nProcessing Subcategories from cats.json...")
     for cat in cats_data:
@@ -220,7 +224,6 @@ def main():
             
         # Standardize path
         if not "/" in cat_link:
-            # e.g. "Sports" -> try both "cats/sports.json" and "sports.json"
             paths_to_try = [f"cats/{cat_link.lower()}.json", f"{cat_link.lower()}.json"]
         else:
             paths_to_try = [cat_link]
@@ -236,64 +239,81 @@ def main():
         if sub_data:
             save_json(sub_data, used_path)
             print(f"  [SUCCESS] Decrypted category: {title} ({used_path}) -> {len(sub_data)} channels")
-            # Collect channel IDs
             for ch in sub_data:
                 ch_id = ch.get("id")
                 if ch_id:
-                    unique_channel_ids.add(str(ch_id))
+                    tv_channel_ids.add(str(ch_id))
         else:
             print(f"  [WARNING] Category failed to load: {title} (Tried paths: {paths_to_try})")
 
-    # 3. Collect additional channel IDs from events and highlights
+    # 3. Collect Live Event IDs and Highlights IDs separately
+    event_channel_ids = set()
     events_data = decrypted_main.get("events.json", [])
     for event in events_data:
         ev_id = event.get("id")
         if ev_id:
-            unique_channel_ids.add(str(ev_id))
+            event_channel_ids.add(str(ev_id))
             
+    highlight_channel_ids = set()
     highlights_data = decrypted_main.get("highlights.json", [])
     if isinstance(highlights_data, list):
         for hl in highlights_data:
             hl_id = hl.get("id")
             if hl_id:
-                unique_channel_ids.add(str(hl_id))
+                highlight_channel_ids.add(str(hl_id))
 
-    print(f"\nCollected {len(unique_channel_ids)} unique channel/event stream IDs.")
+    print(f"\nCollected IDs to decrypt:")
+    print(f"  - TV Channels: {len(tv_channel_ids)}")
+    print(f"  - Live Events: {len(event_channel_ids)}")
+    print(f"  - Highlights: {len(highlight_channel_ids)}")
 
-    # 4. Fetch and Decrypt all unique channels in parallel
-    print("Fetching and decrypting channel details in parallel...")
-    decrypted_channels = {}
+    # 4. Fetch and Decrypt all channels in parallel (saving to respective subfolders)
+    print("\nFetching and decrypting details in parallel...")
+    decrypted_event_channels = {}
     
-    def worker(ch_id):
-        path = f"channels/{ch_id}.json"
-        data = fetch_and_decrypt_json(path)
-        return ch_id, data, path
+    # We build tasks list of tuples: (channel_id, local_subfolder)
+    tasks = []
+    for ch_id in tv_channel_ids:
+        tasks.append((ch_id, "channels"))
+    for ch_id in event_channel_ids:
+        tasks.append((ch_id, "event_channels"))
+    for ch_id in highlight_channel_ids:
+        tasks.append((ch_id, "highlight_channels"))
 
-    # Using 12 threads for faster parallel downloads
+    def worker(ch_id, folder):
+        # On remote server, all files are stored in channels/{ch_id}.json
+        remote_path = f"channels/{ch_id}.json"
+        data = fetch_and_decrypt_json(remote_path)
+        return ch_id, folder, data
+
     with ThreadPoolExecutor(max_workers=12) as executor:
-        futures = [executor.submit(worker, ch_id) for ch_id in unique_channel_ids]
+        futures = [executor.submit(worker, t[0], t[1]) for t in tasks]
         
         success_count = 0
         for future in as_completed(futures):
-            ch_id, data, path = future.result()
+            ch_id, folder, data = future.result()
             if data:
-                save_json(data, path)
-                decrypted_channels[ch_id] = data
-                success_count += 1
-                if success_count % 10 == 0 or success_count == len(unique_channel_ids):
-                    print(f"  Progress: Decrypted {success_count} channels...")
+                # Save locally under decrypted_output/{folder}/{ch_id}.json
+                local_filename = os.path.join(folder, f"{ch_id}.json")
+                save_json(data, local_filename)
+                
+                if folder == "event_channels":
+                    decrypted_event_channels[ch_id] = data
                     
-    print(f"Successfully decrypted and saved {success_count} individual channels.")
+                success_count += 1
+                if success_count % 10 == 0 or success_count == len(tasks):
+                    print(f"  Progress: Decrypted {success_count}/{len(tasks)} files...")
+                    
+    print(f"Successfully decrypted and saved {success_count} files across directories.")
 
-    # 5. Build combined events_with_channels.json file
+    # 5. Build combined events_with_channels.json file using event_channels
     print("\nConsolidating combined events_with_channels.json...")
     events_with_channels = []
     for event in events_data:
         event_id = str(event.get("id"))
         event_copy = dict(event)
         
-        # Check if we have decrypted channel data for this event
-        channels_info = decrypted_channels.get(event_id)
+        channels_info = decrypted_event_channels.get(event_id)
         if channels_info:
             event_copy["decoded_channels"] = channels_info
             event_copy["channel_status"] = "live"
