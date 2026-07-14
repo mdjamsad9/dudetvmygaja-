@@ -89,6 +89,20 @@ def write_api_specification(out_dir):
         "api_name": "DUDE TV (Gaja TV) Decrypted API Database",
         "base_url": "https://mdjamsad9.github.io/dudetvmygaja-/decrypted_output",
         "description": "This is a clean, fully decrypted mirror of the Gaja TV API database, hosted via GitHub Pages and automatically updated every 5 minutes.",
+        "api_usage_guide": {
+            "categories_and_channels_flow": {
+                "step_1_fetch_categories": "Fetch '/cats.json' to get the menu category list (e.g. Sports, Bangla, Entertainment).",
+                "step_2_fetch_subcategory_channels": "For any category, look at the 'catLink' field (e.g. 'cats/bangla.json'). Fetch this file from 'base_url + /cats/{catLink}' to get the channels in that category.",
+                "step_3_get_stream_details": "Each channel in the subcategory list has a unique 'id' (e.g. '1'). Fetch 'base_url + /channels/{id}.json' (e.g. '/channels/1.json') to get the decrypted M3U8 URLs, referers, and ClearKey DRM details."
+            },
+            "live_events_flow": {
+                "step_1_fetch_events": "Fetch '/events.json' to get the list of active/upcoming live sports matches.",
+                "step_2_get_stream_details": "Each live event has a unique 'id' (e.g. 50008). Fetch 'base_url + /channels/{id}.json' (e.g. '/channels/50008.json') to get the decrypted streaming links. Note: These event channels are created dynamically and are only accessible while the match is live."
+            },
+            "simplified_single_request_flow": {
+                "recommendation": "If you are building a website or app and want to avoid multiple fetch requests for live events, fetch '/events_with_channels.json' directly. It has all active live matches pre-merged with their decrypted play links inside the 'decoded_channels' field."
+            }
+        },
         "endpoints": {
             "categories_menu": {
                 "path": "/cats.json",
