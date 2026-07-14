@@ -1,0 +1,102 @@
+[
+  {
+    "id": "44",
+    "title": "Zee TV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",
+    "cat": "India",
+    "publish": "1",
+    "formats": [
+      "Zee TV",
+      "Zee TV HD"
+    ]
+  },
+  {
+    "id": "45",
+    "title": "Colors HD",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",
+    "cat": "India",
+    "publish": "1",
+    "formats": [
+      "SERVER 1",
+      "Server 2",
+      "Server 3",
+      "Server 4"
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Star Plus HD",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",
+    "cat": "India",
+    "publish": "1",
+    "formats": [
+      "SERVER 2",
+      "Star plus"
+    ]
+  },
+  {
+    "id": "49",
+    "title": "Star Bharat",
+    "image": "https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310",
+    "cat": "India",
+    "publish": "1",
+    "formats": [
+      "Star Bharat"
+    ]
+  },
+  {
+    "id": "81",
+    "title": "Sony SAB HD",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",
+    "cat": "India",
+    "publish": "1",
+    "formats": [
+      "Server 1"
+    ]
+  },
+  {
+    "id": "98",
+    "title": "Zee Cinema",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",
+    "cat": "India",
+    "publish": "1",
+    "formats": [
+      "Zee Cinema",
+      "Zee Cinema HD",
+      "Zee Cinema "
+    ]
+  },
+  {
+    "id": "110",
+    "title": "And TV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",
+    "cat": "India",
+    "publish": "1",
+    "formats": [
+      "&TV",
+      "Server 2"
+    ]
+  },
+  {
+    "id": "111",
+    "title": "Sony TV HD",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s",
+    "cat": "India",
+    "publish": "1",
+    "formats": [
+      "SERVER 1",
+      "Server 2",
+      "Server 3"
+    ]
+  },
+  {
+    "id": "286",
+    "title": "Zee Cinemalu",
+    "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",
+    "cat": "India",
+    "publish": "1",
+    "formats": [
+      "Server 1"
+    ]
+  }
+]
