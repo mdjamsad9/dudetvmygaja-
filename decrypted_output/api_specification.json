@@ -1,0 +1,83 @@
+{
+  "api_name": "DUDE TV (Gaja TV) Decrypted API Database",
+  "base_url": "https://mdjamsad9.github.io/dudetvmygaja-/decrypted_output",
+  "description": "This is a clean, fully decrypted mirror of the Gaja TV API database, hosted via GitHub Pages and automatically updated every 5 minutes.",
+  "api_usage_guide": {
+    "categories_and_channels_flow": {
+      "step_1_fetch_categories": "Fetch '/cats.json' to get the menu category list (e.g. Sports, Bangla, Entertainment).",
+      "step_2_fetch_subcategory_channels": "For any category, look at the 'catLink' field (e.g. 'cats/bangla.json'). Fetch this file from 'base_url + /cats/{catLink}' to get the channels in that category.",
+      "step_3_get_stream_details": "Each channel in the subcategory list has a unique 'id' (e.g. '1'). Fetch 'base_url + /channels/{id}.json' (e.g. '/channels/1.json') to get the decrypted M3U8 URLs, referers, and ClearKey DRM details."
+    },
+    "live_events_flow": {
+      "step_1_fetch_events": "Fetch '/events.json' to get the list of active/upcoming live sports matches.",
+      "step_2_get_stream_details": "Each live event has a unique 'id' (e.g. 50008). Fetch 'base_url + /channels/{id}.json' (e.g. '/channels/50008.json') to get the decrypted streaming links. Note: These event channels are created dynamically and are only accessible while the match is live."
+    },
+    "simplified_single_request_flow": {
+      "recommendation": "If you are building a website or app and want to avoid multiple fetch requests for live events, fetch '/events_with_channels.json' directly. It has all active live matches pre-merged with their decrypted play links inside the 'decoded_channels' field."
+    }
+  },
+  "endpoints": {
+    "categories_menu": {
+      "path": "/cats.json",
+      "description": "Main category menu list. Contains category titles, images, and links.",
+      "fields": {
+        "id": "Unique category identifier",
+        "title": "Category display name",
+        "image": "Category thumbnail URL",
+        "catLink": "Path to the subcategory channels list (e.g. 'cats/bangla.json') or an external stream link"
+      },
+      "usage_flow": "Step 1: Fetch this file to render the menu. When the user selects a category, fetch its subcategory file from 'base_url + /cats/{catLink}'."
+    },
+    "sports_channels": {
+      "path": "/cats/sports.json",
+      "description": "List of standard sports channels.",
+      "fields": {
+        "id": "Unique channel identifier (e.g. '7')",
+        "title": "Channel display name",
+        "image": "Channel logo URL",
+        "catLink": "Subcategory category path"
+      },
+      "usage_flow": "To play a channel: Fetch its stream details from 'base_url + /channels/{id}.json' (e.g. '/channels/7.json')."
+    },
+    "live_events": {
+      "path": "/events.json",
+      "description": "List of live and upcoming sports matches and events.",
+      "fields": {
+        "id": "Unique event identifier (e.g. 50008)",
+        "title": "Event title",
+        "eventInfo": "Object containing team names, flags, start time, and end time"
+      },
+      "usage_flow": "To play a live match/event: Fetch its stream links using 'base_url + /channels/{id}.json' (e.g. '/channels/50008.json')."
+    },
+    "live_events_combined": {
+      "path": "/events_with_channels.json",
+      "description": "A consolidated database combining all live events directly with their decrypted channel stream links. Recommended for web and single-page apps to avoid multiple fetch requests.",
+      "fields": {
+        "id": "Event identifier",
+        "title": "Event title",
+        "eventInfo": "Event team information",
+        "decoded_channels": "Array of decrypted play links and ClearKey DRM keys",
+        "channel_status": "Status of the event stream ('live' or 'unavailable')"
+      },
+      "usage_flow": "Fetch this file to display live events. If 'channel_status' is 'live', play the stream directly from 'decoded_channels' without making separate fetch requests."
+    },
+    "highlights": {
+      "path": "/highlights.json",
+      "description": "List of sports highlights videos.",
+      "fields": {
+        "id": "Unique highlight identifier",
+        "title": "Highlight title",
+        "image": "Highlight thumbnail URL"
+      },
+      "usage_flow": "To play a highlight: Fetch its stream links from 'base_url + /channels/{id}.json'."
+    },
+    "app_settings": {
+      "path": "/app_data.json",
+      "description": "App notice, version config, update URLs, and sponsorship ads configurations.",
+      "fields": {
+        "sig": "Signature hash",
+        "dataRows": "Key-value rows of app configurations (Version, Website, Message, Update Link, Email)"
+      }
+    }
+  }
+}
