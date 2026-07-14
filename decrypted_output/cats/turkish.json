@@ -4,9 +4,16 @@
     "title": "4U TV",
     "image": "https://play-lh.googleusercontent.com/4oBAjFVjsxi_2fuP2H8NbVLehzsUZRsQtlvvGS5ZkdceCewr09NnDQesNop9AnkrMQ",
     "cat": "Turkish",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "server 1"
+    ],
+    "formatsNew": [
+      {
+        "title": "server 1",
+        "logo": ""
+      }
     ]
   },
   {
@@ -14,9 +21,16 @@
     "title": "360 TV",
     "image": "https://yt3.googleusercontent.com/YlVLnsvpXboD7VKUsek8u99QZ3L7uduZgO4cewlgmvkZ6UnD65HGfSdzyYp4ZKJoByzLZ34H7w=s900-c-k-c0x00ffffff-no-rj",
     "cat": "Turkish",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "server 1"
+    ],
+    "formatsNew": [
+      {
+        "title": "server 1",
+        "logo": ""
+      }
     ]
   }
 ]

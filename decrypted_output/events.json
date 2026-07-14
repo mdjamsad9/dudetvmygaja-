@@ -634,28 +634,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WC TV FHD",
+      "UNITE8 HINDI HD",
+      "beIN ARABIC FHD",
+      "ITV SPORTS HD",
+      "SPANISH FHD",
       "FOX ONE - AQ",
-      "BBC SPORTS HD",
+      "TSN4 SPORTS FHD",
       "TSN SPORTS HD",
       "RTE SPORTS FHD",
       "FAST [NO Comment]",
       "FAST SERVER",
-      "TOFFEE BDIX (BD)",
+      "ISCREEN BD FHD",
+      "TELEMUNDO HD",
+      "CANAL5 FHD",
       "TVE La 1 FHD",
       "TSN SPORTS FHD",
-      "TSN4 SPORTS FHD",
       "CTV SPORTS FHD",
       "D Sports FHD",
       "CAZE TV FHD",
-      "SporTV BR FHD",
+      "TUDN MEXICO",
       "FOX ONE HDR",
       "FOX SPORTS 4K",
-      "TRT SPORTS UHD",
-      "TELEMUNDO HD",
       "FOX ONE HD",
       "NPO1 DUTCH FHD",
       "M6 FRANCE (USA)",
-      "UNITE8 HINDI HD",
       "TSN SPORTS FHD",
       "FOX ONE FHD",
       "FOX 4K [ALT]",
@@ -670,8 +673,6 @@
       "TSN SPORTS HD",
       "DAZN SPANISH",
       "TYC SPORTS HD",
-      "ISCREEN BD FHD",
-      "SportzX Live",
       "HD SERVER ENG",
       "HD SERVER AR",
       "HD SERVER ES",
@@ -689,17 +690,37 @@
       "SD SERVER [SWE]",
       "beiN SPORTS FR",
       "ESPANOL SD",
-      "GOLTV VIVO",
-      "ISR"
+      "TSN HDR",
+      "beIN ARABIC HD"
     ],
     "formatsNew": [
+      {
+        "title": "WC TV FHD",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image"
+      },
+      {
+        "title": "UNITE8 HINDI HD",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "ITV SPORTS HD",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/mcoywh1678355150.png"
+      },
+      {
+        "title": "SPANISH FHD",
+        "logo": ""
+      },
       {
         "title": "FOX ONE - AQ",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
-        "title": "BBC SPORTS HD",
-        "logo": ""
+        "title": "TSN4 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "TSN SPORTS HD",
@@ -707,7 +728,7 @@
       },
       {
         "title": "RTE SPORTS FHD",
-        "logo": ""
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/syptrs1458515379.png"
       },
       {
         "title": "FAST [NO Comment]",
@@ -718,7 +739,15 @@
         "logo": ""
       },
       {
-        "title": "TOFFEE BDIX (BD)",
+        "title": "ISCREEN BD FHD",
+        "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd"
+      },
+      {
+        "title": "TELEMUNDO HD",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+      },
+      {
+        "title": "CANAL5 FHD",
         "logo": ""
       },
       {
@@ -727,10 +756,6 @@
       },
       {
         "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "TSN4 SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
@@ -746,8 +771,8 @@
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
       },
       {
-        "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
+        "title": "TUDN MEXICO",
+        "logo": ""
       },
       {
         "title": "FOX ONE HDR",
@@ -756,14 +781,6 @@
       {
         "title": "FOX SPORTS 4K",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "TRT SPORTS UHD",
-        "logo": ""
-      },
-      {
-        "title": "TELEMUNDO HD",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
         "title": "FOX ONE HD",
@@ -775,10 +792,6 @@
       },
       {
         "title": "M6 FRANCE (USA)",
-        "logo": ""
-      },
-      {
-        "title": "UNITE8 HINDI HD",
         "logo": ""
       },
       {
@@ -835,14 +848,6 @@
       },
       {
         "title": "TYC SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "ISCREEN BD FHD",
-        "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd"
-      },
-      {
-        "title": "SportzX Live",
         "logo": ""
       },
       {
@@ -914,11 +919,11 @@
         "logo": ""
       },
       {
-        "title": "GOLTV VIVO",
-        "logo": ""
+        "title": "TSN HDR",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
-        "title": "ISR",
+        "title": "beIN ARABIC HD",
         "logo": ""
       }
     ]
