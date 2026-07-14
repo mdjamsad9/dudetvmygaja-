@@ -86,51 +86,71 @@ def fetch_and_decrypt_json(url_path):
 
 def write_api_specification(out_dir):
     spec = {
-        "api_name": "Gaja Decrypted API Database",
-        "description": "This is a fully decrypted mirror of the mygaja repository API, updated automatically every 5 minutes.",
-        "source_repository": "https://github.com/anshulajoy10/mygaja",
-        "decryption_key": "6ayJ7jo@ao#pxVc%",
-        "decryption_iv": "HsjJTCA7jJztpL2w",
-        "endpoints_mapping": {
-            "cats": {
-                "source_url": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/cats.json",
-                "decrypted_path": "/cats.json",
-                "description": "Category list for the menu."
+        "api_name": "DUDE TV (Gaja TV) Decrypted API Database",
+        "base_url": "https://mdjamsad9.github.io/dudetvmygaja-/decrypted_output",
+        "description": "This is a clean, fully decrypted mirror of the Gaja TV API database, hosted via GitHub Pages and automatically updated every 5 minutes.",
+        "endpoints": {
+            "categories_menu": {
+                "path": "/cats.json",
+                "description": "Main category menu list. Contains category titles, images, and links.",
+                "fields": {
+                    "id": "Unique category identifier",
+                    "title": "Category display name",
+                    "image": "Category thumbnail URL",
+                    "catLink": "Path to the subcategory channels list (e.g. 'cats/bangla.json') or an external stream link"
+                },
+                "usage_flow": "Step 1: Fetch this file to render the menu. When the user selects a category, fetch its subcategory file from 'base_url + /cats/{catLink}'."
             },
-            "eventcats": {
-                "source_url": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/eventcats.json",
-                "decrypted_path": "/eventcats.json",
-                "description": "Filter categories for live events."
+            "sports_channels": {
+                "path": "/cats/sports.json",
+                "description": "List of standard sports channels.",
+                "fields": {
+                    "id": "Unique channel identifier (e.g. '7')",
+                    "title": "Channel display name",
+                    "image": "Channel logo URL",
+                    "catLink": "Subcategory category path"
+                },
+                "usage_flow": "To play a channel: Fetch its stream details from 'base_url + /channels/{id}.json' (e.g. '/channels/7.json')."
             },
-            "events": {
-                "source_url": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/events.json",
-                "decrypted_path": "/events.json",
-                "description": "Active and upcoming matches list."
+            "live_events": {
+                "path": "/events.json",
+                "description": "List of live and upcoming sports matches and events.",
+                "fields": {
+                    "id": "Unique event identifier (e.g. 50008)",
+                    "title": "Event title",
+                    "eventInfo": "Object containing team names, flags, start time, and end time"
+                },
+                "usage_flow": "To play a live match/event: Fetch its stream links using 'base_url + /channels/{id}.json' (e.g. '/channels/50008.json')."
+            },
+            "live_events_combined": {
+                "path": "/events_with_channels.json",
+                "description": "A consolidated database combining all live events directly with their decrypted channel stream links. Recommended for web and single-page apps to avoid multiple fetch requests.",
+                "fields": {
+                    "id": "Event identifier",
+                    "title": "Event title",
+                    "eventInfo": "Event team information",
+                    "decoded_channels": "Array of decrypted play links and ClearKey DRM keys",
+                    "channel_status": "Status of the event stream ('live' or 'unavailable')"
+                },
+                "usage_flow": "Fetch this file to display live events. If 'channel_status' is 'live', play the stream directly from 'decoded_channels' without making separate fetch requests."
             },
             "highlights": {
-                "source_url": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/highlights.json",
-                "decrypted_path": "/highlights.json",
-                "description": "Completed sports highlights."
+                "path": "/highlights.json",
+                "description": "List of sports highlights videos.",
+                "fields": {
+                    "id": "Unique highlight identifier",
+                    "title": "Highlight title",
+                    "image": "Highlight thumbnail URL"
+                },
+                "usage_flow": "To play a highlight: Fetch its stream links from 'base_url + /channels/{id}.json'."
             },
-            "app_data": {
-                "source_url": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/app_data.json",
-                "decrypted_path": "/app_data.json",
-                "description": "App notification and version settings."
-            },
-            "subcategories": {
-                "source_url_pattern": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/cats/{catLink}.json",
-                "decrypted_path_pattern": "/cats/{catLink}.json",
-                "description": "Subcategory channel lists, parsed dynamically from cats.json."
-            },
-            "channels": {
-                "source_url_pattern": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/channels/{id}.json",
-                "decrypted_path_pattern": "/channels/{id}.json",
-                "description": "Decrypted streaming links and ClearKey DRM credentials for each channel/event."
-            },
-            "events_combined": {
-                "source": "Generated locally by merging decrypted events with their channel links",
-                "decrypted_path": "/events_with_channels.json",
-                "description": "Combined events list containing decoded channels inline, ideal for single-request client apps."
+            "app_settings": {
+                "path": "/app_data.json",
+                "description": "App notice, version config, update URLs, and sponsorship ads configurations.",
+                "fields": {
+                    "sig": "Signature hash",
+                    "dataRows": "Key-value rows of app configurations (Version, Website, Message, Update Link, Email)"
+                }
             }
         }
     }
