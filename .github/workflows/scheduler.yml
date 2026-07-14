@@ -1,0 +1,35 @@
+name: Gaja Auto-Decoder
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # Runs every 5 minutes (subject to GitHub Actions scheduling queue)
+  workflow_dispatch:        # Allows manual trigger
+
+jobs:
+  run-decoder:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run Decoder Script
+      run: |
+        python decode.py
+
+    - name: Commit and Push Decrypted Files
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add decrypted_output/
+        git commit -m "chore: auto-update decrypted Gaja feeds [skip ci]" || exit 0
+        git push

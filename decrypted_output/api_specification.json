@@ -1,0 +1,49 @@
+{
+  "api_name": "Gaja Decrypted API Database",
+  "description": "This is a fully decrypted mirror of the mygaja repository API, updated automatically every 5 minutes.",
+  "source_repository": "https://github.com/anshulajoy10/mygaja",
+  "decryption_key": "6ayJ7jo@ao#pxVc%",
+  "decryption_iv": "HsjJTCA7jJztpL2w",
+  "endpoints_mapping": {
+    "cats": {
+      "source_url": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/cats.json",
+      "decrypted_path": "/cats.json",
+      "description": "Category list for the menu."
+    },
+    "eventcats": {
+      "source_url": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/eventcats.json",
+      "decrypted_path": "/eventcats.json",
+      "description": "Filter categories for live events."
+    },
+    "events": {
+      "source_url": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/events.json",
+      "decrypted_path": "/events.json",
+      "description": "Active and upcoming matches list."
+    },
+    "highlights": {
+      "source_url": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/highlights.json",
+      "decrypted_path": "/highlights.json",
+      "description": "Completed sports highlights."
+    },
+    "app_data": {
+      "source_url": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/app_data.json",
+      "decrypted_path": "/app_data.json",
+      "description": "App notification and version settings."
+    },
+    "subcategories": {
+      "source_url_pattern": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/cats/{catLink}.json",
+      "decrypted_path_pattern": "/cats/{catLink}.json",
+      "description": "Subcategory channel lists, parsed dynamically from cats.json."
+    },
+    "channels": {
+      "source_url_pattern": "https://raw.githubusercontent.com/anshulajoy10/mygaja/main/channels/{id}.json",
+      "decrypted_path_pattern": "/channels/{id}.json",
+      "description": "Decrypted streaming links and ClearKey DRM credentials for each channel/event."
+    },
+    "events_combined": {
+      "source": "Generated locally by merging decrypted events with their channel links",
+      "decrypted_path": "/events_with_channels.json",
+      "description": "Combined events list containing decoded channels inline, ideal for single-request client apps."
+    }
+  }
+}
