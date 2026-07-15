@@ -256,9 +256,9 @@
       "FANCODE FHD",
       "TAPMAD FHD",
       "FANCODE SD",
-      "FANCODE BD",
-      "TNT Sports 1",
-      "TNT Sports 2"
+      "T SPORTS HD",
+      "FANCODE - BD",
+      "FANCODE - IN"
     ],
     "formatsNew": [
       {
@@ -274,16 +274,16 @@
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
-        "title": "FANCODE BD",
+        "title": "T SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE - BD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
-        "title": "TNT Sports 1",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "TNT Sports 2",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "title": "FANCODE - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -517,14 +517,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX NBA",
       "SportzX SD"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX NBA",
-        "logo": ""
-      },
       {
         "title": "SportzX SD",
         "logo": ""
@@ -550,14 +545,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX NBA",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX NBA",
-        "logo": ""
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -583,14 +573,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX WNBA",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX WNBA",
-        "logo": ""
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1289,11 +1274,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "FANCODE FHD",
+      "FANCODE SD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "SportzX Live",
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FANCODE SD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
