@@ -311,6 +311,7 @@
       "TAPMAD FHD",
       "WILLOW ALT",
       "LOW SERVER",
+      "FOX CRICKET HD",
       "SONY TEN 1 - IN",
       "SONY TEN 3 - IN",
       "SONY TEN 4 - IN"
@@ -331,6 +332,10 @@
       {
         "title": "LOW SERVER",
         "logo": ""
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "title": "SONY TEN 1 - IN",
