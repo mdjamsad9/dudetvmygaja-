@@ -12,35 +12,30 @@
       "eventName": "Formula 1 - Belgium Grand Prix",
       "eventType": "null",
       "eventBanner": "https://iili.io/Cl54sja.png",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/07/18 10:30:00 +0000",
       "endTime": "2026/07/18 15:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD",
       "FANCODE FHD",
       "SportzX F1 HD",
-      "SPORTSCAST FHD",
-      "FOX SPORTS FHD",
       "APPLE TV FHD",
-      "F1 RUSSIA FHD",
+      "FOX SPORTS FHD",
       "DAZN ESPANOL",
       "SKY ITALY FHD",
+      "SD SERVER",
       "LOW RES",
       "F1 GERMANY [USA]",
       "SKY F1 ITALY [USA]",
       "Tipik FRANCE FHD",
       "SKY SPORTS HD",
       "ELEVEN SPORTS",
-      "Fox Sports - AQ"
+      "Fox Sports - AQ",
+      "TSN SPORTS FHD"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
       {
         "title": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
@@ -50,7 +45,7 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
-        "title": "SPORTSCAST FHD",
+        "title": "APPLE TV FHD",
         "logo": ""
       },
       {
@@ -58,19 +53,15 @@
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
-        "title": "APPLE TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "F1 RUSSIA FHD",
-        "logo": ""
-      },
-      {
         "title": "DAZN ESPANOL",
         "logo": ""
       },
       {
         "title": "SKY ITALY FHD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -100,6 +91,10 @@
       {
         "title": "Fox Sports - AQ",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ]
   },
@@ -658,171 +653,6 @@
     ]
   },
   {
-    "id": 50032,
-    "title": "Colorado Rockies",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Rockies",
-      "teamB": "Reds",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-      "eventName": "Colorado Rockies vs Cincinnati Reds",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 00:40:00 +0000",
-      "endTime": "2026/07/18 03:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX MLB",
-      "SportzX LIVE"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
-      {
-        "title": "SportzX LIVE",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50033,
-    "title": "Detroit Tigers",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Angels",
-      "teamB": "Tigers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-      "eventName": "Los Angeles Angels vs Detroit Tigers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 01:38:00 +0000",
-      "endTime": "2026/07/18 04:38:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX MLB",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50034,
-    "title": "Washington Nationals",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Athletics",
-      "teamB": "Nationals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-      "eventName": "Athletics vs Washington Nationals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 01:40:00 +0000",
-      "endTime": "2026/07/18 04:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX MLB",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50052,
-    "title": "Arizona Diamondbacks",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Diamondbacks",
-      "teamB": "Cardinals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-      "eventName": "Diamondbacks vs St. Louis Cardinals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 01:40:00 +0000",
-      "endTime": "2026/07/18 04:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX MLB",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50053,
-    "title": "Seattle Mariners",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Mariners",
-      "teamB": "Giants",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-      "eventName": "Seattle Mariners vs San Francisco Giants",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 02:10:00 +0000",
-      "endTime": "2026/07/18 05:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX MLB",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50054,
     "title": "CFL",
     "image": "o",
@@ -1049,16 +879,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW FHD",
-      "WILLOW ALT"
+      "WILLOW - FHD",
+      "WILLOW - ALT"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW FHD",
+        "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "WILLOW ALT",
+        "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       }
     ]
@@ -1701,72 +1531,6 @@
     ]
   },
   {
-    "id": 50073,
-    "title": "Juarez vs Club Puebla",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Juárez",
-      "teamB": "Puebla",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/201624/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
-      "eventName": "FC Juárez vs Club Puebla",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 03:00:00 +0000",
-      "endTime": "2026/07/18 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live",
-      "Azteca 7"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "Azteca 7",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50074,
-    "title": "LA Galaxy vs Los Angeles",
-    "image": "o",
-    "cat": "MLS 🇺🇸",
-    "eventInfo": {
-      "teamA": "LA Galaxy",
-      "teamB": "Los Angeles",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2513/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/274650/image",
-      "eventName": "LA Galaxy vs Los Angeles FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 02:25:00 +0000",
-      "endTime": "2026/07/18 04:25:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS FHD",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50075,
     "title": "Guardians vs Pittsburgh Pirates",
     "image": "o",
@@ -2266,11 +2030,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ITV SPORTS FHD"
+      "ITV SPORTS FHD",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "ITV SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2294,11 +2068,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ITV SPORTS FHD"
+      "ITV SPORTS FHD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "ITV SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -2322,11 +2101,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ITV SPORTS FHD"
+      "ITV SPORTS FHD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "ITV SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -2350,11 +2134,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ITV SPORTS FHD"
+      "ITV SPORTS FHD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "ITV SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -2378,11 +2167,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ITV SPORTS FHD"
+      "ITV SPORTS FHD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "ITV SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
