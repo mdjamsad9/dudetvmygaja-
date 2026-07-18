@@ -337,15 +337,19 @@
     "adsLimit": "15",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ EN FHD",
       "SportsNet FHD",
       "PARAMOUNT+ HD",
       "PARAMOUNT+ S2",
       "PARAMOUNT+ BR",
       "SD TV (USE VPN)",
-      "SportzX LIVE",
-      "PARAMOUNT+ EN FHD"
+      "SportzX LIVE"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ EN FHD",
+        "logo": ""
+      },
       {
         "title": "SportsNet FHD",
         "logo": ""
@@ -368,10 +372,6 @@
       },
       {
         "title": "SportzX LIVE",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ EN FHD",
         "logo": ""
       }
     ],
@@ -1594,8 +1594,8 @@
       "eventName": "Lanka Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/18 14:00:00 +0000",
-      "endTime": "2026/07/18 17:45:00 +0000"
+      "startTime": "2026/07/19 09:30:00 +0000",
+      "endTime": "2026/07/19 17:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1688,17 +1688,23 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FIFA TV FHD",
       "FOX ONE - AQ",
       "TSN SPORTS FHD",
       "BBC SPORTS HD",
+      "ISCREEN BD FHD",
+      "GLOBOSP BR",
+      "CAZE TV HD",
+      "MUNIDAL HD",
+      "FUSSBALL TV FHD",
+      "QAZ SPORTS HD",
       "TSN4 SPORTS FHD",
       "TSN SPORTS FHD",
-      "ISCREEN BD FHD",
-      "TUDN HD",
       "RTE SPORTS FHD",
       "FAST SERVER",
       "FAST [NO Comment]",
       "CT SPORTS FHD",
+      "beIN MAX HD",
       "TELEMUNDO HD",
       "TVE La 1 FHD",
       "D Sports FHD",
@@ -1743,6 +1749,10 @@
     ],
     "formatsNew": [
       {
+        "title": "FIFA TV FHD",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image"
+      },
+      {
         "title": "FOX ONE - AQ",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
@@ -1755,20 +1765,36 @@
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/mcoywh1678355150.png"
       },
       {
+        "title": "ISCREEN BD FHD",
+        "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd"
+      },
+      {
+        "title": "GLOBOSP BR",
+        "logo": ""
+      },
+      {
+        "title": "CAZE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "MUNIDAL HD",
+        "logo": ""
+      },
+      {
+        "title": "FUSSBALL TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "QAZ SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "TSN4 SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "TSN SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "ISCREEN BD FHD",
-        "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd"
-      },
-      {
-        "title": "TUDN HD",
-        "logo": ""
       },
       {
         "title": "RTE SPORTS FHD",
@@ -1784,6 +1810,10 @@
       },
       {
         "title": "CT SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "beIN MAX HD",
         "logo": ""
       },
       {
@@ -1953,6 +1983,13 @@
     ],
     "decoded_channels": [
       {
+        "api": "603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc",
+        "link": "https://cdnec02.mediaquest.com.ph/bpk-token/2ab@w544wk5y111knxfbv2itg33nvw2xxxv0wx4e31ca/bpk-tv/fifa_ppv1/default/index.mpd?bkm-query",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image",
+        "title": "FIFA TV FHD",
+        "type": "1"
+      },
+      {
         "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -1974,6 +2011,48 @@
         "type": "0"
       },
       {
+        "api": "",
+        "link": "https://hjkpoi-mnbvcxza.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f76d3e5e41ea557843549782f9a/main.m3u8?|referer=https://iscreen.com.bd/",
+        "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd",
+        "title": "ISCREEN BD FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live-ancdn-09.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMDkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0NDMwMTcyLCJpYXQiOjE3ODQ0MDg1NzIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiODhlMzUxNjctNjRmNS00OWE3LTk4ZTktMWYzY2M2ZGZlODUxIiwicGF0aCI6Ii9saXZlL2YobGwpL2dsb2JvLWZpZmEyNi9wbGF5bGlzdC5tM3U4In0.LvcZAWTZ5DGJ_RXi9l6wF7znSt_2ud5W3W5hglpcSgfVEglsDQ2npEj3CqzHzyd-qpVTf1iuxPIDfI6EZ4D36gcTwLlhYT79W2M5HRCSuZPjQlj27s7ThIXpTY3gHZdRoxBfCG85noRwdjjWJsUgRC9GGRUABD__xB2xN1Bkf2PyVC49OdYtYHWQOKt5qWpPmsLQrEe2zmPNRRekxGKzcmga0-VZ2KK8BAy7a6l-0q_yRsEZjHSShn-rfi1gN9vxva8xeLipNk8_EsxU8zCS_TYD5SXIsrZVJDRFTDJjmiwB_6F5c8BNPghJK1oAwKVfW2ob8SnaZ2zJE_r3uF7Sqg/live/f(ll)/globo-fifa26/playlist.m3u8",
+        "logo": "",
+        "title": "GLOBOSP BR",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/cazetv/index.m3u8?|referer=https://playerembed.xyz/",
+        "logo": "",
+        "title": "CAZE TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
+        "logo": "",
+        "title": "MUNIDAL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+        "logo": "",
+        "title": "FUSSBALL TV FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://stream.mcquack.net/72/index.m3u8",
+        "logo": "",
+        "title": "QAZ SPORTS HD",
+        "type": "0"
+      },
+      {
         "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -1988,22 +2067,8 @@
         "type": "1"
       },
       {
-        "api": "",
-        "link": "https://ld58dqz8ajj8.rockstreamer.com/isc_ssai/isc_ssai_ads/playlist.m3u8?|referer=https://iscreen.com.bd/",
-        "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd",
-        "title": "ISCREEN BD FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
-        "logo": "",
-        "title": "TUDN HD",
-        "type": "0"
-      },
-      {
         "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/68a87ab9-4097-41ae-9943-b9e926472ebd:BRU/manifest.mpd",
+        "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/665e72ff-49e9-4b31-888b-b3aacb6e6def:BRU/manifest.mpd",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/syptrs1458515379.png",
         "title": "RTE SPORTS FHD",
         "type": "1"
@@ -2028,6 +2093,13 @@
         "logo": "",
         "title": "CT SPORTS FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://wez.khaialogy.store/dream1.m3u8",
+        "logo": "",
+        "title": "beIN MAX HD",
+        "type": "0"
       },
       {
         "api": "",
@@ -2080,7 +2152,7 @@
       },
       {
         "api": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
-        "link": "https://npo-nl-ams-p23-am3.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMxMDE0OTcsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiOWFiNGJiNiJ9.Mrnl7cHSAplbWGh_DtEC4Hd4FbgBXDyYCJGN9DdkgiA/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
+        "link": "https://npo-fsly-2.cdn.streamgate.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODQ0OTQ2MTYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiNWYzODQxYyJ9.0rcUL3pxSAavnBHmNmzBP-GjXhHJEjLQKB09o-0Ev-U/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
         "logo": "",
         "title": "NPO1 DUTCH FHD",
         "type": "1"
@@ -2963,6 +3035,80 @@
     "channel_status": "live"
   },
   {
+    "id": 50073,
+    "title": "Guadalajara vs CD Toluca",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "Guadalajara",
+      "teamB": "Toluca",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+      "eventName": "CD Guadalajara vs CD Toluca",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/19 01:07:00 +0000",
+      "endTime": "2026/07/19 03:07:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50074,
+    "title": "Querétaro vs Club América",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "Querétaro",
+      "teamB": "América",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1951/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
+      "eventName": "Querétaro FC vs Club América",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/19 03:10:00 +0000",
+      "endTime": "2026/07/19 05:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50075,
     "title": "Guardians vs Pittsburgh Pirates",
     "image": "o",
@@ -3519,15 +3665,27 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX NBA",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX NBA",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53501/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX NBA",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -3595,15 +3753,27 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX NBA",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX NBA",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53505/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX NBA",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -3654,61 +3824,73 @@
   },
   {
     "id": 50091,
-    "title": "Manchester United vs Wrexham",
+    "title": "Pumas UNAM vs CF Pachuca",
     "image": "o",
-    "cat": "Club Friendly",
+    "cat": "Liga MX",
     "eventInfo": {
-      "teamA": "Man Utd",
-      "teamB": "Wrexham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
-      "eventName": "Manchester United vs Wrexham",
+      "teamA": "Pumas",
+      "teamB": "Pachuca",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1936/image",
+      "eventName": "Pumas UNAM vs CF Pachuca",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/18 15:00:00 +0000",
-      "endTime": "2026/07/18 17:00:00 +0000"
+      "startTime": "2026/07/18 23:00:00 +0000",
+      "endTime": "2026/07/19 01:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "MU TV",
-      "Sportscast FHD",
-      "MU TV"
+      "CANAL 5"
     ],
     "formatsNew": [
       {
-        "title": "MU TV",
-        "logo": ""
-      },
-      {
-        "title": "Sportscast FHD",
-        "logo": ""
-      },
-      {
-        "title": "MU TV",
+        "title": "CANAL 5",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
-        "logo": "",
-        "title": "MU TV",
-        "type": "0"
-      },
+        "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "CANAL 5",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50092,
+    "title": "Monterrey vs Santos Laguna",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "Monterrey",
+      "teamB": "Santos",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1932/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1948/image",
+      "eventName": "CF Monterrey vs Santos Laguna",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/19 01:05:00 +0000",
+      "endTime": "2026/07/19 03:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CANAL 5"
+    ],
+    "formatsNew": [
       {
-        "api": "",
-        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/445db9eb-0ebc-4035-9598-e637f934abc8/master.m3u8",
-        "logo": "",
-        "title": "Sportscast FHD",
-        "type": "0"
-      },
+        "title": "CANAL 5",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
       {
-        "api": "",
-        "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
-        "logo": "",
-        "title": "MU TV",
+        "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "CANAL 5",
         "type": "1"
       }
     ],
@@ -3807,292 +3989,6 @@
         "link": "https://edgestream2.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50095,
-    "title": "Australia vs Italy",
-    "image": "o",
-    "cat": "Rugby",
-    "eventInfo": {
-      "teamA": "Australia",
-      "teamB": "Italy",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4223/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7057/image",
-      "eventName": "Australia vs Italy",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 10:10:00 +0000",
-      "endTime": "2026/07/18 12:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "ITV SPORTS FHD",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "ITV SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "ITV SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50096,
-    "title": "Fiji vs Scotland",
-    "image": "o",
-    "cat": "Rugby",
-    "eventInfo": {
-      "teamA": "Fiji",
-      "teamB": "Scotland",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7951/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4230/image",
-      "eventName": "Fiji vs Scotland",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 13:10:00 +0000",
-      "endTime": "2026/07/18 15:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "ITV SPORTS FHD",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "ITV SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "ITV SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50097,
-    "title": "South Africa vs Wales",
-    "image": "o",
-    "cat": "Rugby",
-    "eventInfo": {
-      "teamA": "South Africa",
-      "teamB": "Wales",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4231/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7058/image",
-      "eventName": "South Africa vs Wales",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 15:40:00 +0000",
-      "endTime": "2026/07/18 18:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "ITV SPORTS FHD",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "ITV SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "ITV SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50098,
-    "title": "AFC Ajax vs Olympiacos",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Ajax",
-      "teamB": "Olympiacos",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3245/image",
-      "eventName": "AFC Ajax vs Olympiacos FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 13:30:00 +0000",
-      "endTime": "2026/07/18 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4584528.m3u8?txSecret=c60212596bd784119f7687af306e090a&txTime=6A5B92FC|referer=https://player.online909.com/",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.49/hls/YNNNQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50101,
-    "title": "Hampshire vs Nottinghamshire",
-    "image": "o",
-    "cat": "T20 Blast",
-    "eventInfo": {
-      "teamA": "HAM",
-      "teamB": "NOT",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187821/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187826/image",
-      "eventName": "Hampshire vs Nottinghamshire",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/18 17:45:00 +0000",
-      "endTime": "2026/07/18 21:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "CRICKET FHD",
-      "WILLOW - ALT",
-      "SonyLiv",
-      "TAPMAD - FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "CRICKET FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv",
-        "logo": ""
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "c19c0062404ac30d42291fbfadba323e:6086d22b65e8e988f4b6da3e34a3e2c3",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-        "logo": "",
-        "title": "CRICKET FHD",
-        "type": "0"
-      },
-      {
-        "api": "c19c0062404ac30d42291fbfadba323e:6086d22b65e8e988f4b6da3e34a3e2c3",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/criclive1807/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddd957f2ac5534f4b94466bbcc9c4c88-1784368200117",
-        "logo": "",
-        "title": "SonyLiv",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?|referer=https://tapmad.com",
-        "logo": "",
-        "title": "TAPMAD - FHD",
         "type": "0"
       }
     ],

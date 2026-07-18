@@ -1,16 +1,8 @@
 [
   {
-    "api": "",
-    "link": "https://live.vivo200.com/live/sd-1-4586403.m3u8?txSecret=e7be5ee93a905e08c0cf06fc5d8f281b&txTime=6A5B92AE|referer=https://player.online909.com/",
-    "logo": "",
-    "title": "SportzX Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://hls.streamhub.media/hls/thesport-api-5985834c24afb9f6488a/master.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
+    "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "CANAL 5",
+    "type": "1"
   }
 ]
