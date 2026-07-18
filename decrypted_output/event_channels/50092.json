@@ -1,8 +1,16 @@
 [
   {
-    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-    "title": "FOX SPORTS 2",
-    "type": "1"
+    "api": "",
+    "link": "https://live.vivo200.com/live/sd-1-4586403.m3u8?txSecret=e7be5ee93a905e08c0cf06fc5d8f281b&txTime=6A5B92AE|referer=https://player.online909.com/",
+    "logo": "",
+    "title": "SportzX Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://hls.streamhub.media/hls/thesport-api-5985834c24afb9f6488a/master.m3u8",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
   }
 ]
