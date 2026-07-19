@@ -653,9 +653,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX LIVE"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX LIVE",
         "logo": ""
@@ -681,9 +686,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -709,9 +719,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -737,9 +752,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -808,39 +828,6 @@
     ]
   },
   {
-    "id": 50055,
-    "title": "Dallas Wings vs Sparks",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Wings",
-      "teamB": "Sparks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
-      "eventName": "Dallas Wings vs Los Angeles Sparks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/19 17:00:00 +0000",
-      "endTime": "2026/07/19 19:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX WNBA",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX WNBA",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50056,
     "title": "Dream vs Chicago Sky",
     "image": "o",
@@ -859,9 +846,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX WNBA",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX WNBA",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1001,26 +993,29 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "1",
-      "startTime": "2026/07/19 19:00:00 +0000",
-      "endTime": "2026/07/19 21:15:00 +0000"
+      "startTime": "2026/07/19 18:50:00 +0000",
+      "endTime": "2026/07/19 23:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX ONE - AQ",
-      "GLOBOSP BR",
+      "Fusball 4K MULTI",
       "ITV SPORTS HD",
-      "TSN SPORTS HD",
-      "ISCREEN BD FHD",
-      "beIN MAX HD",
-      "TELEMUNDO FHD",
       "Fox Sports UHD [US VPN]",
+      "SportzX Live",
+      "ISCREEN BD FHD",
+      "FAST SERVER FR",
+      "beIN MAX HD",
+      "FOX ONE - AQ",
+      "UNIFY TV FHD",
+      "GLOBOSP BR",
+      "TSN SPORTS HD",
+      "CCTV SPORTS HD",
+      "MUNIDAL HD",
+      "CAZE TV HD",
+      "TELEMUNDO FHD",
       "Fox Sports 4K",
       "TSN SPORTS FHD",
-      "Fusball 4K MULTI",
-      "FAST SERVER FR",
-      "CAZE TV HD",
-      "MUNIDAL HD",
       "CANAL5",
       "TVE La 1 FHD",
       "FUSSBALL TV FHD",
@@ -1047,8 +1042,7 @@
       "FOX 4K [ALT]",
       "PEACOCK FHD [ALT]",
       "TELEMUNDO [USA]",
-      "FUSSBALL TV1 4K",
-      "FUSSBALL TV2 4K",
+      "BBC SPORTS HD",
       "FOX SPORTS HD",
       "TSN SPORTS HD",
       "TYC SPORTS HD",
@@ -1072,11 +1066,7 @@
     ],
     "formatsNew": [
       {
-        "title": "FOX ONE - AQ",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "GLOBOSP BR",
+        "title": "Fusball 4K MULTI",
         "logo": ""
       },
       {
@@ -1084,24 +1074,56 @@
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
       },
       {
-        "title": "TSN SPORTS HD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+        "title": "Fox Sports UHD [US VPN]",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "SportzX Live",
+        "logo": ""
       },
       {
         "title": "ISCREEN BD FHD",
         "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd"
       },
       {
+        "title": "FAST SERVER FR",
+        "logo": ""
+      },
+      {
         "title": "beIN MAX HD",
         "logo": ""
       },
       {
-        "title": "TELEMUNDO FHD",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+        "title": "FOX ONE - AQ",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
-        "title": "Fox Sports UHD [US VPN]",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+        "title": "UNIFY TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "GLOBOSP BR",
+        "logo": ""
+      },
+      {
+        "title": "TSN SPORTS HD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "CCTV SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "MUNIDAL HD",
+        "logo": ""
+      },
+      {
+        "title": "CAZE TV HD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "TELEMUNDO FHD",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
         "title": "Fox Sports 4K",
@@ -1110,22 +1132,6 @@
       {
         "title": "TSN SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "Fusball 4K MULTI",
-        "logo": ""
-      },
-      {
-        "title": "FAST SERVER FR",
-        "logo": ""
-      },
-      {
-        "title": "CAZE TV HD",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-      },
-      {
-        "title": "MUNIDAL HD",
-        "logo": ""
       },
       {
         "title": "CANAL5",
@@ -1232,11 +1238,7 @@
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
-        "title": "FUSSBALL TV1 4K",
-        "logo": ""
-      },
-      {
-        "title": "FUSSBALL TV2 4K",
+        "title": "BBC SPORTS HD",
         "logo": ""
       },
       {
