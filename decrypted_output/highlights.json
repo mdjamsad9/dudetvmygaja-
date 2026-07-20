@@ -1644,20 +1644,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "HIGHLIGHTS",
       "EXTENDED in EN",
+      "EXTENDED in EN",
+      "PRE MATCH EN",
       "1st HALF",
+      "HALF TIME SHOW",
       "2nd HALF",
       "EXTRA TIME",
       "CEREMONY",
-      "2nd HALF + EXTRA"
+      "CEREMONY [BBC]",
+      "FULL MATCH"
     ],
     "formatsNew": [
+      {
+        "title": "HIGHLIGHTS",
+        "logo": ""
+      },
       {
         "title": "EXTENDED in EN",
         "logo": ""
       },
       {
+        "title": "EXTENDED in EN",
+        "logo": ""
+      },
+      {
+        "title": "PRE MATCH EN",
+        "logo": ""
+      },
+      {
         "title": "1st HALF",
+        "logo": ""
+      },
+      {
+        "title": "HALF TIME SHOW",
         "logo": ""
       },
       {
@@ -1673,7 +1694,11 @@
         "logo": ""
       },
       {
-        "title": "2nd HALF + EXTRA",
+        "title": "CEREMONY [BBC]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH",
         "logo": ""
       }
     ]
