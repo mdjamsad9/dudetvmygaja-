@@ -266,6 +266,49 @@
     ]
   },
   {
+    "id": 50005,
+    "title": "WWE NXT",
+    "image": "o",
+    "cat": "WWE",
+    "eventInfo": {
+      "teamA": "NXT",
+      "teamB": "NXT",
+      "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
+      "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
+      "eventName": "🥊 WWE NXT",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/06/03 00:00:00 +0000",
+      "endTime": "2026/06/03 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX WWE",
+      "Backup SD",
+      "HD SERVER",
+      "Tap Sports"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX WWE",
+        "logo": ""
+      },
+      {
+        "title": "Backup SD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "Tap Sports",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50006,
     "title": "WWE",
     "image": "o",
@@ -629,8 +672,36 @@
     ]
   },
   {
+    "id": 50034,
+    "title": "St. Louis Cardinals",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Angels",
+      "teamB": "Cardinals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+      "eventName": "Angels vs St. Louis Cardinals",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 01:38:00 +0000",
+      "endTime": "2026/07/22 04:38:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50052,
-    "title": "Seattle Mariners",
+    "title": "Arizona Diamondbacks",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
@@ -639,6 +710,34 @@
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
       "eventName": "Arizona Diamondbacks vs Athletics",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 01:40:00 +0000",
+      "endTime": "2026/07/22 04:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50053,
+    "title": "Seattle Mariners",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Seattle Mariners",
+      "teamB": "Cincinnati Reds",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+      "eventName": "Seattle Mariners vs Cincinnati Reds",
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/07/22 01:40:00 +0000",
@@ -703,41 +802,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW FHD",
+      "FANCODE FHD",
+      "TAPMAD FHD",
       "TNT SPORTS HD",
-      "WILLOW - ALT",
-      "TAPMAD - AQ",
       "FANCODE - SD",
-      "LOW SERVER",
-      "FANCODE - LQ"
+      "FANCODE - IN",
+      "FANCODE - BD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "TAPMAD FHD",
+        "logo": ""
       },
       {
         "title": "TNT SPORTS HD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - AQ",
-        "logo": ""
-      },
-      {
         "title": "FANCODE - SD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
-        "title": "LOW SERVER",
-        "logo": ""
+        "title": "FANCODE - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
-        "title": "FANCODE - LQ",
+        "title": "FANCODE - BD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
@@ -796,19 +890,39 @@
     "formats": [
       "WILLOW FHD",
       "CRICKET FHD",
-      "WILLOW - ALT"
+      "BBC SPORTS",
+      "WILLOW - ALT",
+      "TAPMAD FHD",
+      "SKY SPORT",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "WILLOW FHD",
-        "logo": ""
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "CRICKET FHD",
         "logo": ""
       },
       {
+        "title": "BBC SPORTS",
+        "logo": ""
+      },
+      {
         "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -819,15 +933,14 @@
     "image": "o",
     "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "MIL-W",
-      "teamB": "SL-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377200/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377206/image",
-      "eventName": "MI London Women vs Sunrisers Leeds Women",
+      "teamA": "The Hundred Women",
+      "teamB": "The Hundred Women",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
+      "eventName": "The Hundred Women",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/21 13:45:00 +0000",
-      "endTime": "2026/07/21 17:30:00 +0000"
+      "startTime": "2026/07/22 13:45:00 +0000",
+      "endTime": "2026/07/22 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1142,6 +1255,303 @@
     "formatsNew": [
       {
         "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50085,
+    "title": "Iberia 1999 vs Slovan Bratislava",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Iberia 1999",
+      "teamB": "Slovan Bratislava",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/116312/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2404/image",
+      "eventName": "Iberia 1999 vs Slovan Bratislava",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 16:00:00 +0000",
+      "endTime": "2026/07/21 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50086,
+    "title": "Fenerbahçe vs Górnik Zabrze",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Fenerbahçe",
+      "teamB": "Górnik Zabrze",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3110/image",
+      "eventName": "Fenerbahçe vs Górnik Zabrze",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 18:00:00 +0000",
+      "endTime": "2026/07/21 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50087,
+    "title": "FC Thun vs Dinamo Zagreb",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "FC Thun",
+      "teamB": "GNK Dinamo Zagreb",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2454/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2032/image",
+      "eventName": "FC Thun vs Dinamo Zagreb",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 18:00:00 +0000",
+      "endTime": "2026/07/21 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50088,
+    "title": "Sturm Graz vs Hearts",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Sturm Graz",
+      "teamB": "Hearts",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2051/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+      "eventName": "SK Sturm Graz vs Heart of Midlothian",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 18:30:00 +0000",
+      "endTime": "2026/07/21 20:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50089,
+    "title": "Gillingham vs Millwall",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Gillingham",
+      "teamB": "Millwall",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/20/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
+      "eventName": "Gillingham vs Millwall",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 18:00:00 +0000",
+      "endTime": "2026/07/21 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50090,
+    "title": "Atlético Mineiro vs Bahia",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Atlético Mineiro",
+      "teamB": "Bahia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+      "eventName": "Atlético Mineiro vs Bahia",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 22:30:00 +0000",
+      "endTime": "2026/07/22 00:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR",
+      "SporTV BR FHD",
+      "SporTV BR HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      },
+      {
+        "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "SporTV BR HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50091,
+    "title": "Nacional vs Tigre",
+    "image": "o",
+    "cat": "CON. Sudamericana",
+    "eventInfo": {
+      "teamA": "Nacional",
+      "teamB": "Tigre",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3230/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7628/image",
+      "eventName": "Nacional vs Tigre",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 22:00:00 +0000",
+      "endTime": "2026/07/22 00:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN SPORTS FHD",
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50092,
+    "title": "Universidad vs Santos",
+    "image": "o",
+    "cat": "CON. Sudamericana",
+    "eventInfo": {
+      "teamA": "UCV",
+      "teamB": "Santos",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/249952/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+      "eventName": "Universidad Central vs Santos",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 00:30:00 +0000",
+      "endTime": "2026/07/22 02:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN SPORTS FHD",
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50093,
+    "title": "Walsall vs Aston Villa",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Walsall",
+      "teamB": "Aston Villa",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+      "eventName": "Walsall vs Aston Villa",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 18:30:00 +0000",
+      "endTime": "2026/07/21 20:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
