@@ -1253,106 +1253,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50052,
-    "title": "Arizona Diamondbacks",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Diamondbacks",
-      "teamB": "Athletics",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-      "eventName": "Arizona Diamondbacks vs Athletics",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 01:40:00 +0000",
-      "endTime": "2026/07/22 04:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX MLB",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53650/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50053,
-    "title": "Seattle Mariners",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Seattle Mariners",
-      "teamB": "Cincinnati Reds",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-      "eventName": "Seattle Mariners vs Cincinnati Reds",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 01:40:00 +0000",
-      "endTime": "2026/07/22 04:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX MLB",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53653/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50055,
     "title": "Liberty vs Chicago Sky",
     "image": "o",
@@ -1648,15 +1548,15 @@
     ],
     "decoded_channels": [
       {
-        "api": "70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "b5afc6d1006a956ada4fe4a4399e2c21:9319efc57e5eb5d32a12a7a66a4fb2ae",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rszozaxgyx/out/v1/7b88be9ba3fa4afda7f65bd4daae807e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
         "type": "1"
       },
       {
-        "api": "70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd",
+        "api": "b5afc6d1006a956ada4fe4a4399e2c21:9319efc57e5eb5d32a12a7a66a4fb2ae",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rszozaxgyx/out/v1/7b88be9ba3fa4afda7f65bd4daae807e/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -1866,56 +1766,6 @@
         "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORT",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50074,
-    "title": "CD Toluca vs Pumas UNAM",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Toluca",
-      "teamB": "Pumas",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image",
-      "eventName": "CD Toluca vs Pumas UNAM",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 03:05:00 +0000",
-      "endTime": "2026/07/22 05:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TUDN MX HD",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "TUDN MX HD",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53622/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "TUDN MX HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://pulltx.cqsycw.com/live/sd-6MwdpntpZtZeCD5WSA.m3u8?txSecret=4a46ac832fbc9884a0b80a843d5677f3&txTime=6A6063E0",
-        "logo": "",
-        "title": "SportzX Live",
         "type": "0"
       }
     ],
@@ -2226,44 +2076,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50083,
-    "title": "Angels vs Cardinals",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Angels",
-      "teamB": "Cardinals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-      "eventName": "Angels vs St. Louis Cardinals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 20:07:00 +0000",
-      "endTime": "2026/07/22 23:07:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50084,
     "title": "Guardians vs Minnesota Twins",
     "image": "o",
@@ -2450,44 +2262,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50089,
-    "title": "Nottingham Forest vs Blackburn Rovers",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Forest",
-      "teamB": "Blackburn Rovers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
-      "eventName": "Nottingham Forest vs Blackburn Rovers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 10:00:00 +0000",
-      "endTime": "2026/07/22 12:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50090,
     "title": "Bologna vs Heidenheim",
     "image": "o",
@@ -2506,20 +2280,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "SportzX Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "http://193.47.62.41/hls/ADFFFQ.m3u8?|referer=http://www.fawanews.sc/",
         "logo": "",
-        "title": "SportzX Live",
+        "title": "SD SERVER",
         "type": "0"
       }
     ],
@@ -2544,20 +2318,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "SportzX Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "http://193.47.62.41/hls/ADFFFQ.m3u8?|referer=http://www.fawanews.sc/",
         "logo": "",
-        "title": "SportzX Live",
+        "title": "SD SERVER",
         "type": "0"
       }
     ],
@@ -2578,6 +2352,310 @@
       "isHot": "0",
       "startTime": "2026/07/22 16:00:00 +0000",
       "endTime": "2026/07/22 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50093,
+    "title": "AZ Alkmaar vs KRC Genk",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "AZ Alkmaar",
+      "teamB": "KRC Genk",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2890/image",
+      "eventName": "AZ Alkmaar vs KRC Genk",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 16:30:00 +0000",
+      "endTime": "2026/07/22 18:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50094,
+    "title": "Fiorentina vs Gubbio",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Fiorentina",
+      "teamB": "Gubbio",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2782/image",
+      "eventName": "Fiorentina vs Gubbio",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 17:00:00 +0000",
+      "endTime": "2026/07/22 19:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50095,
+    "title": "Sestao River vs Athletic Club",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Sestao River",
+      "teamB": "Athletic Club",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/24364/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
+      "eventName": "Sestao River vs Athletic Club",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 17:30:00 +0000",
+      "endTime": "2026/07/22 19:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50096,
+    "title": "Valencia vs CD Eldense",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Valencia",
+      "teamB": "CD Eldense",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/47321/image",
+      "eventName": "Valencia vs CD Eldense",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 18:00:00 +0000",
+      "endTime": "2026/07/22 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50097,
+    "title": "Wimbledon vs Norwich City",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Wimbledon",
+      "teamB": "Norwich City",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/23957/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
+      "eventName": "Wimbledon vs Norwich City",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 18:00:00 +0000",
+      "endTime": "2026/07/22 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50098,
+    "title": "Stevenage vs West Ham United",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Stevenage",
+      "teamB": "West Ham United",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
+      "eventName": "Stevenage vs West Ham United",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 18:45:00 +0000",
+      "endTime": "2026/07/22 20:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50099,
+    "title": "Rangers vs Saint-Étienne",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Rangers",
+      "teamB": "Saint-Étienne",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1678/image",
+      "eventName": "Rangers vs Saint-Étienne",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 18:45:00 +0000",
+      "endTime": "2026/07/22 20:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50100,
+    "title": "Gil Vicente vs FC Porto",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Gil Vicente",
+      "teamB": "FC Porto",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3010/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+      "eventName": "Gil Vicente vs FC Porto",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 19:00:00 +0000",
+      "endTime": "2026/07/22 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
