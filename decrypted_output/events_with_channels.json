@@ -570,6 +570,7 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
+      "SportzX Live",
       "Fox Sports Premium",
       "BACKUP HD",
       "BACKUP SD"
@@ -578,6 +579,10 @@
       {
         "title": "TSN SPORTS",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "SportzX Live",
+        "logo": ""
       },
       {
         "title": "Fox Sports Premium",
@@ -599,6 +604,13 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/49815/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
       },
       {
         "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
@@ -1121,14 +1133,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX MLB",
       "SportzX LIVE"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
       {
         "title": "SportzX LIVE",
         "logo": ""
@@ -1137,14 +1144,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53644/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX LIVE",
         "type": "0"
@@ -1171,14 +1171,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1187,14 +1182,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53647/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -1221,14 +1209,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1237,14 +1220,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53648/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -1271,14 +1247,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1287,14 +1258,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53650/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -1321,14 +1285,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1337,14 +1296,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53653/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -1382,7 +1334,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -1409,14 +1361,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1424,15 +1371,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream1.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -1476,12 +1416,14 @@
       {
         "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "TSN SPORTS",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
       }
@@ -1518,7 +1460,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream2.pro/hls/sqhdghzavbxu75.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -1637,8 +1579,8 @@
       "eventName": "Lanka Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/22 09:30:00 +0000",
-      "endTime": "2026/07/22 17:59:00 +0000"
+      "startTime": "2026/07/23 09:30:00 +0000",
+      "endTime": "2026/07/23 17:59:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1844,8 +1786,9 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
       "eventName": "The Hundred Women",
       "eventType": "null",
-      "startTime": "2026/07/22 13:45:00 +0000",
-      "endTime": "2026/07/22 17:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/07/23 13:45:00 +0000",
+      "endTime": "2026/07/23 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2118,15 +2061,27 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53660/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2156,15 +2111,27 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53658/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2205,7 +2172,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -2232,15 +2199,27 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53665/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2270,9 +2249,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -2281,7 +2265,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/53667/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -2308,9 +2299,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -2319,7 +2315,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/53669/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -2357,7 +2360,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -2395,7 +2398,8 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/kjhfzua25.m3u8??|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
       }
@@ -2432,7 +2436,8 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8??|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
       }
@@ -2458,9 +2463,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX WNBA",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX WNBA",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -2469,7 +2479,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/53663/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX WNBA",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8??|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
       }
@@ -2495,10 +2513,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX WNBA",
       "SportzX Live"
     ],
     "formatsNew": [
       {
+        "title": "SportzX WNBA",
+        "logo": ""
+      },
+      {
         "title": "SportzX Live",
         "logo": ""
       }
@@ -2506,70 +2529,16 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "title": "SportzX Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50092,
-    "title": "Tottenham Hotspur vs MK Dons",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Tottenham",
-      "teamB": "MK Dons",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4/image",
-      "eventName": "Tottenham Hotspur vs MK Dons",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 16:00:00 +0000",
-      "endTime": "2026/07/22 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4591078.m3u8?txSecret=5fdf116858c7c8833f054a78871bd3a9&txTime=6A60F69D|referer=https://player.online909.com/",
+        "link": "https://chatgpt.hereisman.net/playlist/53662/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "SportzX Live",
+        "title": "SportzX WNBA",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-34383b254efd4df13076/master.m3u8",
+        "link": "https://edgestream1.pro/hls/ztyarueaghj71.m3u8??|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.49/hls/EEEEQ.m3u8?|referer=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
+        "title": "SportzX Live",
         "type": "0"
       }
     ],
@@ -2614,120 +2583,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50096,
-    "title": "Valencia vs CD Eldense",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Valencia",
-      "teamB": "CD Eldense",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/47321/image",
-      "eventName": "Valencia vs CD Eldense",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 18:00:00 +0000",
-      "endTime": "2026/07/22 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50097,
-    "title": "Wimbledon vs Norwich City",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Wimbledon",
-      "teamB": "Norwich City",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23957/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-      "eventName": "Wimbledon vs Norwich City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 18:00:00 +0000",
-      "endTime": "2026/07/22 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50098,
-    "title": "Stevenage vs West Ham United",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Stevenage",
-      "teamB": "West Ham United",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "eventName": "Stevenage vs West Ham United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 18:45:00 +0000",
-      "endTime": "2026/07/22 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50099,
     "title": "Rangers vs Saint-Étienne",
     "image": "o",
@@ -2757,7 +2612,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "http://193.47.62.50/hls/KIIII.m3u8?|Referer=http://www.fawanews.sc/",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -2784,20 +2639,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "SportzX Live",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
         "title": "SportzX Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo200.com/live/sd-1-4592244.m3u8?txSecret=578978e76e7d36f9632aad1e414e6b76&txTime=6A612626|referer=https://player.online909.com/",
         "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/ddddAAAA.m3u8?|Referer=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW QUALITY",
         "type": "0"
       }
     ],
@@ -3223,36 +3090,26 @@
   },
   {
     "id": 50111,
-    "title": "Torino vs Alcione Milano",
+    "title": "Burton vs Birmingham City",
     "image": "o",
     "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "Torino",
-      "teamB": "Alcione Milano",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/380181/image",
-      "eventName": "Torino vs Alcione Milano",
+      "teamA": "Burton Albion",
+      "teamB": "Birmingham City",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/134/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
+      "eventName": "Burton vs Birmingham City",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/22 15:30:00 +0000",
-      "endTime": "2026/07/22 17:35:00 +0000"
+      "startTime": "2026/07/22 18:30:00 +0000",
+      "endTime": "2026/07/22 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live",
-      "HD SERVER",
       "SD SERVER"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
       {
         "title": "SD SERVER",
         "logo": ""
@@ -3261,21 +3118,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4591081.m3u8?txSecret=ce31f8be6c8b56ee5099e1d46a33cb3a&txTime=6A60F6F1|referer=https://player.online909.com/",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-cf89962de572ba5ddac3/master.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.49/hls/RRRRQ.m3u8?|referer=http://www.fawanews.sc/",
+        "link": "http://193.47.62.58/hls/HZZZAA.m3u8?|referer=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER",
         "type": "0"
@@ -3285,99 +3128,37 @@
   },
   {
     "id": 50112,
-    "title": "Nantes vs La Roche",
+    "title": "CD Tenerife vs Getafe",
     "image": "o",
     "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "Nantes",
-      "teamB": "La Roche VF",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1714/image",
-      "eventName": "Nantes vs La Roche Vendée",
+      "teamA": "CD Tenerife",
+      "teamB": "Getafe",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+      "eventName": "CD Tenerife vs Getafe",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/22 15:30:00 +0000",
-      "endTime": "2026/07/22 17:35:00 +0000"
+      "startTime": "2026/07/22 18:30:00 +0000",
+      "endTime": "2026/07/22 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live",
-      "SD SERVER"
+      "SportzX Live"
     ],
     "formatsNew": [
       {
         "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4589237.m3u8?txSecret=11e6d0c2fe41248a03eff20b5886f4b9&txTime=6A60F74C|referer=https://player.online909.com/",
+        "link": "https://live.vivo200.com/live/sd-1-4591116.m3u8?txSecret=e6cc34df156444ba51f8012748d0fb96&txTime=6A6125C8|referer=https://player.online909.com/",
         "logo": "",
         "title": "SportzX Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.49/hls/RRRR.m3u8?|referer=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50113,
-    "title": "Stade Brestois vs Al-Wakrah",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Stade Brestois",
-      "teamB": "Al-Wakrah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44440/image",
-      "eventName": "Stade Brestois vs Al-Wakrah",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 16:00:00 +0000",
-      "endTime": "2026/07/22 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4591082.m3u8?txSecret=50c78556f7ca9b97e3c213aae1fa07a2&txTime=6A60F7BA|referer=https://player.online909.com/",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-1023c0b7b49d69961315/master.m3u8",
-        "logo": "",
-        "title": "SD SERVER",
         "type": "0"
       }
     ],

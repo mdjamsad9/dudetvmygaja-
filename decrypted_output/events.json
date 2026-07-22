@@ -328,6 +328,7 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
+      "SportzX Live",
       "Fox Sports Premium",
       "BACKUP HD",
       "BACKUP SD"
@@ -336,6 +337,10 @@
       {
         "title": "TSN SPORTS",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "SportzX Live",
+        "logo": ""
       },
       {
         "title": "Fox Sports Premium",
@@ -634,14 +639,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX MLB",
       "SportzX LIVE"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
       {
         "title": "SportzX LIVE",
         "logo": ""
@@ -667,14 +667,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -700,14 +695,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -733,14 +723,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -766,14 +751,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -827,14 +807,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS",
       "SportzX Live"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -968,8 +943,8 @@
       "eventName": "Lanka Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/22 09:30:00 +0000",
-      "endTime": "2026/07/22 17:59:00 +0000"
+      "startTime": "2026/07/23 09:30:00 +0000",
+      "endTime": "2026/07/23 17:59:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1078,8 +1053,9 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
       "eventName": "The Hundred Women",
       "eventType": "null",
-      "startTime": "2026/07/22 13:45:00 +0000",
-      "endTime": "2026/07/22 17:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/07/23 13:45:00 +0000",
+      "endTime": "2026/07/23 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1246,9 +1222,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1274,9 +1255,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1330,9 +1316,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1358,9 +1349,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1386,9 +1382,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1498,9 +1499,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX WNBA",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX WNBA",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1526,49 +1532,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX WNBA",
       "SportzX Live"
     ],
     "formatsNew": [
       {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50092,
-    "title": "Tottenham Hotspur vs MK Dons",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Tottenham",
-      "teamB": "MK Dons",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4/image",
-      "eventName": "Tottenham Hotspur vs MK Dons",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 16:00:00 +0000",
-      "endTime": "2026/07/22 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
+        "title": "SportzX WNBA",
         "logo": ""
       },
       {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "SportzX Live",
         "logo": ""
       }
     ]
@@ -1588,90 +1561,6 @@
       "isHot": "0",
       "startTime": "2026/07/22 16:30:00 +0000",
       "endTime": "2026/07/22 18:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50096,
-    "title": "Valencia vs CD Eldense",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Valencia",
-      "teamB": "CD Eldense",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/47321/image",
-      "eventName": "Valencia vs CD Eldense",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 18:00:00 +0000",
-      "endTime": "2026/07/22 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50097,
-    "title": "Wimbledon vs Norwich City",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Wimbledon",
-      "teamB": "Norwich City",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23957/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-      "eventName": "Wimbledon vs Norwich City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 18:00:00 +0000",
-      "endTime": "2026/07/22 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Stevenage vs West Ham United",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Stevenage",
-      "teamB": "West Ham United",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "eventName": "Stevenage vs West Ham United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 18:45:00 +0000",
-      "endTime": "2026/07/22 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1732,11 +1621,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "SportzX Live",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
         "title": "SportzX Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
@@ -2043,36 +1937,26 @@
   },
   {
     "id": 50111,
-    "title": "Torino vs Alcione Milano",
+    "title": "Burton vs Birmingham City",
     "image": "o",
     "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "Torino",
-      "teamB": "Alcione Milano",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/380181/image",
-      "eventName": "Torino vs Alcione Milano",
+      "teamA": "Burton Albion",
+      "teamB": "Birmingham City",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/134/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
+      "eventName": "Burton vs Birmingham City",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/22 15:30:00 +0000",
-      "endTime": "2026/07/22 17:35:00 +0000"
+      "startTime": "2026/07/22 18:30:00 +0000",
+      "endTime": "2026/07/22 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live",
-      "HD SERVER",
       "SD SERVER"
     ],
     "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
       {
         "title": "SD SERVER",
         "logo": ""
@@ -2081,66 +1965,28 @@
   },
   {
     "id": 50112,
-    "title": "Nantes vs La Roche",
+    "title": "CD Tenerife vs Getafe",
     "image": "o",
     "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "Nantes",
-      "teamB": "La Roche VF",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1714/image",
-      "eventName": "Nantes vs La Roche Vendée",
+      "teamA": "CD Tenerife",
+      "teamB": "Getafe",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+      "eventName": "CD Tenerife vs Getafe",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/22 15:30:00 +0000",
-      "endTime": "2026/07/22 17:35:00 +0000"
+      "startTime": "2026/07/22 18:30:00 +0000",
+      "endTime": "2026/07/22 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live",
-      "SD SERVER"
+      "SportzX Live"
     ],
     "formatsNew": [
       {
         "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Stade Brestois vs Al-Wakrah",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Stade Brestois",
-      "teamB": "Al-Wakrah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44440/image",
-      "eventName": "Stade Brestois vs Al-Wakrah",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 16:00:00 +0000",
-      "endTime": "2026/07/22 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]
