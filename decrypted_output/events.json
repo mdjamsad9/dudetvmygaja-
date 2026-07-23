@@ -697,10 +697,9 @@
       "WILLOW FHD",
       "CRICKET FHD",
       "WILLOW - ALT",
-      "TAPMAD FHD",
-      "HD SERVER ",
-      "LOW SERVER ",
-      "SKY SPORT"
+      "TAPMAD - FHD",
+      "LOW SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -716,20 +715,16 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "TAPMAD FHD",
+        "title": "TAPMAD - FHD",
         "logo": ""
       },
       {
-        "title": "HD SERVER ",
+        "title": "LOW SERVER",
         "logo": ""
       },
       {
-        "title": "LOW SERVER ",
+        "title": "SD SERVER",
         "logo": ""
-      },
-      {
-        "title": "SKY SPORT",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       }
     ]
   },
@@ -876,9 +871,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -953,8 +953,9 @@
       "teamBFlag": "https://iili.io/COqrV0F.png",
       "eventName": "Global Super League",
       "eventType": "null",
-      "startTime": "2026/07/23 14:00:00 +0000",
-      "endTime": "2026/07/23 17:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/07/24 11:00:00 +0000",
+      "endTime": "2026/07/24 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1058,11 +1059,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "SportzX Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "SportzX Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1086,11 +1092,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "SportzX Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "SportzX Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1114,11 +1125,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "SportzX Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "SportzX Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1142,11 +1158,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "SportzX Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "SportzX Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1315,39 +1336,6 @@
     "formatsNew": [
       {
         "title": "beIN SPORTS",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "FC Malisheva vs Hibernian",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Malisheva",
-      "teamB": "Hibernian",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/325494/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2354/image",
-      "eventName": "Malisheva vs Hibernian",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 14:30:00 +0000",
-      "endTime": "2026/07/23 16:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]
