@@ -364,59 +364,49 @@
       "eventName": "Zimbabwe vs India",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/07/23 11:00:00 +0000",
       "endTime": "2026/07/23 14:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - AQ",
-      "CRICKET FHD",
-      "TAPMAD FHD",
-      "WILLOW - ALT",
-      "LOW SERVER ",
-      "SKY SPORT NZ",
-      "SONY TEN 1 - IN",
-      "SONY TEN 3 - IN",
-      "SONY TEN 4 - IN"
+      "FANCODE - FHD",
+      "FANCODE - ALT",
+      "FANCODE - SD",
+      "FANCODE - HIN",
+      "FANCODE - IN",
+      "FANCODE - BD",
+      "CRICKET FHD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - AQ",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FANCODE - ALT",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FANCODE - SD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FANCODE - HIN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FANCODE - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FANCODE - BD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "CRICKET FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "TAPMAD FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "LOW SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORT NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "SONY TEN 1 - IN",
-        "logo": ""
-      },
-      {
-        "title": "SONY TEN 3 - IN",
-        "logo": ""
-      },
-      {
-        "title": "SONY TEN 4 - IN",
-        "logo": ""
       }
     ]
   },
@@ -660,7 +650,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
       "eventName": "Sri Lanka W vs Pakistan W",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/07/23 04:30:00 +0000",
       "endTime": "2026/07/23 12:00:00 +0000"
     },
@@ -761,7 +751,6 @@
       "WILLOW FHD",
       "FANCODE - FHD",
       "WILLOW - ALT",
-      "FANCODE - SD",
       "FANCODE - IN",
       "FANCODE - BD"
     ],
@@ -777,10 +766,6 @@
       {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE - SD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "FANCODE - IN",
@@ -1077,9 +1062,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT MAX HD",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "TNT MAX HD",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -1111,6 +1101,44 @@
       {
         "title": "FOX SPORTS",
         "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50087,
+    "title": "CWC LEAGUE",
+    "image": "o",
+    "cat": "Cricket",
+    "eventInfo": {
+      "teamA": "Netherlands",
+      "teamB": "Nepal",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187840/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+      "eventName": "Netherlands vs Nepal",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/23 09:00:00 +0000",
+      "endTime": "2026/07/23 16:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "ICC TV - FHD",
+      "FANCODE - IN",
+      "FANCODE - BD"
+    ],
+    "formatsNew": [
+      {
+        "title": "ICC TV - FHD",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FANCODE - BD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   }
