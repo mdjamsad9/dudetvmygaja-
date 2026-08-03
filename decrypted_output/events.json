@@ -123,11 +123,11 @@
       "teamB": "MotoGP",
       "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
       "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
-      "eventName": "MotoGP - British Grand Prix",
+      "eventName": "MotoGP - Grand Prix Deutschland",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 08:30:00 +0000",
-      "endTime": "2026/08/07 16:30:00 +0000"
+      "startTime": "2026/07/12 12:00:00 +0000",
+      "endTime": "2026/07/12 14:15:00 +0000"
     },
     "adsLimit": "11",
     "publish": "1",
@@ -187,6 +187,75 @@
     ]
   },
   {
+    "id": 50004,
+    "title": "UFC",
+    "image": "o",
+    "cat": "UFC",
+    "eventInfo": {
+      "teamA": "C. McGregor",
+      "teamB": "M. Holloway",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/471736/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/469993/image",
+      "eventName": "UFC 329: McGregor vs Holloway 2",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 21:00:00 +0000",
+      "endTime": "2026/07/12 04:30:00 +0000"
+    },
+    "adsLimit": "15",
+    "publish": "1",
+    "formats": [
+      "PARAMOUNT+ EN FHD",
+      "PARAMOUNT+ HD",
+      "PARAMOUNT+ ES FHD",
+      "PARAMOUNT+ BR FHD",
+      "PARAMOUNT+ AQ",
+      "PARAMOUNT+ S2",
+      "PARAMOUNT+ BR",
+      "SD TV (USE VPN)",
+      "SportzX LIVE"
+    ],
+    "formatsNew": [
+      {
+        "title": "PARAMOUNT+ EN FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PARAMOUNT+ ES FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PARAMOUNT+ BR FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PARAMOUNT+ AQ",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ S2",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ BR",
+        "logo": ""
+      },
+      {
+        "title": "SD TV (USE VPN)",
+        "logo": ""
+      },
+      {
+        "title": "SportzX LIVE",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50006,
     "title": "WWE",
     "image": "o",
@@ -235,118 +304,6 @@
     ]
   },
   {
-    "id": 50007,
-    "title": "Zimbabwe vs Bangladesh",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "ZIM",
-      "teamB": "BAN",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "eventName": "Zimbabwe vs Bangladesh",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/15 09:30:00 +0000",
-      "endTime": "2026/07/15 13:15:00 +0000"
-    },
-    "adsLimit": "12",
-    "publish": "1",
-    "formats": [
-      "FANCODE FHD",
-      "TAPMAD FHD",
-      "FANCODE SD",
-      "FANCODE BD",
-      "TNT Sports 1",
-      "TNT Sports 2"
-    ],
-    "formatsNew": [
-      {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "TAPMAD FHD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE SD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "FANCODE BD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "TNT Sports 1",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "TNT Sports 2",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      }
-    ]
-  },
-  {
-    "id": 50008,
-    "title": "England vs India",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "ENG",
-      "teamB": "IND",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-      "eventName": "England vs India",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/07/14 10:00:00 +0000",
-      "endTime": "2026/07/14 17:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW FHD",
-      "TAPMAD FHD",
-      "WILLOW ALT",
-      "LOW SERVER",
-      "SONY TEN 1 - IN",
-      "SONY TEN 3 - IN",
-      "SONY TEN 4 - IN"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SONY TEN 1 - IN",
-        "logo": ""
-      },
-      {
-        "title": "SONY TEN 3 - IN",
-        "logo": ""
-      },
-      {
-        "title": "SONY TEN 4 - IN",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50009,
     "title": "ONE Friday Fights",
     "image": "o",
@@ -360,8 +317,8 @@
       "eventType": "null",
       "eventBanner": "https://iili.io/BihxDjj.png",
       "isHot": "0",
-      "startTime": "2026/07/17 12:30:00 +0000",
-      "endTime": "2026/07/17 16:30:00 +0000"
+      "startTime": "2026/07/10 12:30:00 +0000",
+      "endTime": "2026/07/10 16:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -398,8 +355,8 @@
       "eventName": "🥊 WWE Monday Night RAW",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/21 00:00:00 +0000",
-      "endTime": "2026/07/21 02:30:00 +0000"
+      "startTime": "2026/07/14 00:00:00 +0000",
+      "endTime": "2026/07/14 02:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -452,8 +409,8 @@
       "eventType": "null",
       "eventBanner": "https://iili.io/B60OM3Q.gif",
       "isHot": "0",
-      "startTime": "2026/07/18 00:00:00 +0000",
-      "endTime": "2026/07/18 03:00:00 +0000"
+      "startTime": "2026/07/11 00:00:00 +0000",
+      "endTime": "2026/07/11 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -498,119 +455,163 @@
     ]
   },
   {
-    "id": 50012,
-    "title": "Thunder vs Denver Nuggets",
+    "id": 50019,
+    "title": "Wimbledon",
     "image": "o",
-    "cat": "NBA",
+    "cat": "Tennis",
     "eventInfo": {
-      "teamA": "Thunder",
-      "teamB": "Nuggets",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-      "eventName": "Thunder vs Denver Nuggets",
+      "teamA": "Wimbledon",
+      "teamB": "Wimbledon",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/2361/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/2361/image",
+      "eventName": "Wimbledon Championships",
       "eventType": "null",
-      "eventBanner": "null",
+      "eventBanner": "https://iili.io/C5FwXja.png",
       "isHot": "0",
-      "startTime": "2026/07/15 01:00:00 +0000",
-      "endTime": "2026/07/15 04:00:00 +0000"
+      "startTime": "2026/07/12 12:00:00 +0000",
+      "endTime": "2026/07/12 20:30:00 +0000"
     },
-    "adsLimit": "0",
+    "adsLimit": "10",
     "publish": "1",
     "formats": [
-      "SportzX SD"
+      "TSN SPORTS FHD",
+      "TSN4 SPORTS FHD",
+      "SP0TV HD",
+      "EUROSPORT2 FHD",
+      "SP0TV2 HD",
+      "TSN2 SPORTS FHD",
+      "TSN3 SPORTS FHD",
+      "TSN5 SPORTS FHD",
+      "EUROSPORT FHD",
+      "SKY Wimbledon 1 [Italy]",
+      "SKY Wimbledon 2 [Italy]",
+      "SKY Wimbledon 3 [Italy]",
+      "SKY Wimbledon 4 [Italy]",
+      "SKY Wimbledon 5 [Italy]",
+      "SKY Wimbledon 6 [Italy]"
     ],
     "formatsNew": [
       {
-        "title": "SportzX SD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50013,
-    "title": "Los Angeles Lakers",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Lakers",
-      "teamB": "Clippers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-      "eventName": "Los Angeles Lakers vs Clippers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/15 02:00:00 +0000",
-      "endTime": "2026/07/15 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50055,
-    "title": "Connecticut Sun vs Portland",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Sun",
-      "teamB": "Fire",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
-      "eventName": "Connecticut Sun vs Portland Fire",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/14 15:00:00 +0000",
-      "endTime": "2026/07/14 17:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX WNBA",
-      "SportzX Live"
-    ],
-    "formatsNew": [
+        "title": "TSN4 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
-        "title": "SportzX WNBA",
+        "title": "SP0TV HD",
         "logo": ""
       },
       {
-        "title": "SportzX Live",
+        "title": "EUROSPORT2 FHD",
+        "logo": ""
+      },
+      {
+        "title": "SP0TV2 HD",
+        "logo": ""
+      },
+      {
+        "title": "TSN2 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "TSN3 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "TSN5 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "EUROSPORT FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY Wimbledon 1 [Italy]",
+        "logo": ""
+      },
+      {
+        "title": "SKY Wimbledon 2 [Italy]",
+        "logo": ""
+      },
+      {
+        "title": "SKY Wimbledon 3 [Italy]",
+        "logo": ""
+      },
+      {
+        "title": "SKY Wimbledon 4 [Italy]",
+        "logo": ""
+      },
+      {
+        "title": "SKY Wimbledon 5 [Italy]",
+        "logo": ""
+      },
+      {
+        "title": "SKY Wimbledon 6 [Italy]",
         "logo": ""
       }
     ]
   },
   {
-    "id": 50056,
-    "title": "Toronto Tempo vs Mystics",
+    "id": 50059,
+    "title": "England W vs India W",
     "image": "o",
-    "cat": "WNBA",
+    "cat": "Cricket",
     "eventInfo": {
-      "teamA": "Tempo",
-      "teamB": "Mystics",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
-      "eventName": "Toronto Tempo vs Washington Mystics",
+      "teamA": "ENG-W",
+      "teamB": "IND-W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+      "eventName": "England W vs India W",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/14 23:00:00 +0000",
-      "endTime": "2026/07/15 01:45:00 +0000"
+      "startTime": "2026/07/12 10:00:00 +0000",
+      "endTime": "2026/07/12 17:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX"
+      "WILLOW FHD",
+      "SKY CRICKET FHD",
+      "SKY SPORT NZ",
+      "WILLOW - ALT",
+      "WILLOW HD",
+      "SonyLiv",
+      "LOW SERVER",
+      "SONY TEN 5 - IN"
     ],
     "formatsNew": [
       {
-        "title": "SportzX",
+        "title": "WILLOW FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SONY TEN 5 - IN",
         "logo": ""
       }
     ]
@@ -631,7 +632,7 @@
       "startTime": "2026/07/14 19:00:00 +0000",
       "endTime": "2026/07/14 21:15:00 +0000"
     },
-    "adsLimit": "0",
+    "adsLimit": "13",
     "publish": "1",
     "formats": [
       "SPX FHD LIVE",
@@ -701,23 +702,23 @@
       },
       {
         "title": "TSN SPORTS FHD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "FOX ONE - AQ",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "BBC SPORTS HD",
-        "logo": ""
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
       },
       {
         "title": "TSN SPORTS HD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "RTE SPORTS FHD",
-        "logo": ""
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/syptrs1458515379.png"
       },
       {
         "title": "FAST [NO Comment]",
@@ -729,23 +730,23 @@
       },
       {
         "title": "TOFFEE BDIX (BD)",
-        "logo": ""
+        "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg"
       },
       {
         "title": "TVE La 1 FHD",
-        "logo": ""
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/p19tzj1781340041.png"
       },
       {
         "title": "TSN SPORTS FHD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "TSN4 SPORTS FHD",
-        "logo": ""
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/televisa.gif"
       },
       {
         "title": "CTV SPORTS FHD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "D Sports FHD",
@@ -753,19 +754,19 @@
       },
       {
         "title": "CAZE TV FHD",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
       },
       {
         "title": "SporTV BR FHD",
-        "logo": ""
+        "logo": "https://iili.io/CFFRvqJ.png"
       },
       {
         "title": "FOX ONE HDR",
-        "logo": ""
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png"
       },
       {
         "title": "FOX SPORTS 4K",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "TRT SPORTS UHD",
@@ -773,11 +774,11 @@
       },
       {
         "title": "TELEMUNDO HD",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
         "title": "FOX ONE HD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "NPO1 DUTCH FHD",
@@ -785,7 +786,7 @@
       },
       {
         "title": "M6 FRANCE (USA)",
-        "logo": ""
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvp-2-poland.png"
       },
       {
         "title": "UNITE8 HINDI HD",
@@ -793,7 +794,7 @@
       },
       {
         "title": "TSN SPORTS FHD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "FOX ONE FHD",
@@ -805,7 +806,7 @@
       },
       {
         "title": "TSN SPORTS [ALT]",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "FOX ONE [ALT]",
@@ -817,7 +818,7 @@
       },
       {
         "title": "TELEMUNDO [USA]",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
         "title": "FUSSBALL TV 4K",
@@ -833,11 +834,11 @@
       },
       {
         "title": "FOX SPORTS HD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "TSN SPORTS HD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "DAZN SPANISH",
@@ -849,7 +850,7 @@
       },
       {
         "title": "ISCREEN BD FHD",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd"
       },
       {
         "title": "SportzX Live",
@@ -889,7 +890,7 @@
       },
       {
         "title": "TELEMUNDO [USA]",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
         "title": "TSports HD",
@@ -897,7 +898,7 @@
       },
       {
         "title": "BTV BDIX HD",
-        "logo": ""
+        "logo": "https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=2048&q=75"
       },
       {
         "title": "SOMOY TV HD",
@@ -917,7 +918,7 @@
       },
       {
         "title": "beiN SPORTS FR",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
       },
       {
         "title": "ESPANOL SD",
@@ -950,7 +951,7 @@
       "startTime": "2026/07/15 19:00:00 +0000",
       "endTime": "2026/07/15 21:15:00 +0000"
     },
-    "adsLimit": "0",
+    "adsLimit": "20",
     "publish": "1",
     "formats": [
       "FOX ONE - AQ",
@@ -1013,31 +1014,31 @@
     "formatsNew": [
       {
         "title": "FOX ONE - AQ",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "WC TV FHD",
-        "logo": ""
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image"
       },
       {
         "title": "ITV SPORTS HD",
-        "logo": ""
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
       },
       {
         "title": "TSN SPORTS HD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "TOFFEE LIVE",
-        "logo": ""
+        "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg"
       },
       {
         "title": "SPX FHD LIVE",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "TELEMUNDO HD",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
         "title": "FAST SERVER FR",
@@ -1049,11 +1050,11 @@
       },
       {
         "title": "TSN SPORTS FHD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "ITV SPORTS FHD",
-        "logo": ""
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
       },
       {
         "title": "RTE SPORTS FHD",
@@ -1065,7 +1066,7 @@
       },
       {
         "title": "TSN4 SPORTS FHD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "D Sports FHD",
@@ -1073,7 +1074,7 @@
       },
       {
         "title": "CAZE TV FHD",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
       },
       {
         "title": "beIN SPORTS HD",
@@ -1085,7 +1086,7 @@
       },
       {
         "title": "FOX SPORTS 4K",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "IRIB 4K",
@@ -1097,7 +1098,7 @@
       },
       {
         "title": "FOX SPORTS HD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "NPO1 DUTCH FHD",
@@ -1109,19 +1110,19 @@
       },
       {
         "title": "TSN Sports FHD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "FOX SPORTS FHD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "TSN SPORTS [ALT]",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "FOX ONE [ALT]",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "FOX 4K [ALT]",
@@ -1133,7 +1134,7 @@
       },
       {
         "title": "TELEMUNDO [USA]",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
         "title": "FUSSBALL TV1 4K",
@@ -1145,11 +1146,11 @@
       },
       {
         "title": "FOX SPORTS HD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "TSN SPORTS HD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "TYC SPORTS HD",
@@ -1193,7 +1194,7 @@
       },
       {
         "title": "TELEMUNDO [ALT]",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
         "title": "SD SERVER [ENG]",
@@ -1209,7 +1210,7 @@
       },
       {
         "title": "beiN SPORTS FR",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
       },
       {
         "title": "ESPANOL SD",
@@ -1225,126 +1226,47 @@
       },
       {
         "title": "TSN HDR",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "TSN Espanol FHD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "TSN FRANCE FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50073,
-    "title": "Houston Rockets vs Philadelphia 76ers",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Rockets",
-      "teamB": "76ers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
-      "eventName": "Houston Rockets vs Philadelphia 76ers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/14 20:00:00 +0000",
-      "endTime": "2026/07/14 23:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50074,
-    "title": "Brooklyn Nets vs Kings",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Nets",
-      "teamB": "Kings",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-      "eventName": "Brooklyn Nets vs Sacramento Kings",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/14 22:00:00 +0000",
-      "endTime": "2026/07/15 01:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ]
   },
   {
     "id": 50075,
-    "title": "Warriors vs Memphis Grizzlies",
+    "title": "Melbourne Storm vs Gold Coast Titans",
     "image": "o",
-    "cat": "NBA",
+    "cat": "Rugby",
     "eventInfo": {
-      "teamA": "Warriors",
-      "teamB": "Grizzlies",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-      "eventName": "Golden State Warriors vs Memphis Grizzlies",
+      "teamA": "Melbourne",
+      "teamB": "Gold Coast",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4255/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7313/image",
+      "eventName": "Melbourne Storm vs Gold Coast Titans",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/14 23:00:00 +0000",
-      "endTime": "2026/07/15 02:00:00 +0000"
+      "startTime": "2026/07/12 08:15:00 +0000",
+      "endTime": "2026/07/12 10:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "FOX SPORTS FHD",
+      "SKY SPORTS SD"
     ],
     "formatsNew": [
       {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50076,
-    "title": "Chicago Bulls vs Wizards",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Bulls",
-      "teamB": "Wizards",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
-      "eventName": "Chicago Bulls vs Washington Wizards",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/15 00:00:00 +0000",
-      "endTime": "2026/07/15 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
+        "title": "FOX SPORTS FHD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
       {
-        "title": "SportzX Live",
+        "title": "SKY SPORTS SD",
         "logo": ""
       }
     ]
