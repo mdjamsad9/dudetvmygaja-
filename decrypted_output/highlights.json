@@ -93,6 +93,7 @@
   },
   {
     "id": 100029,
+<<<<<<< HEAD
     "title": "South Korea vs Czechia",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -149,35 +150,36 @@
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
       "eventName": "USA vs Paraguay",
+=======
+    "title": "Formula 1",
+    "cat": "F1",
+    "eventInfo": {
+      "teamA": "Formula 1",
+      "teamB": "Formula 1",
+      "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
+      "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
+      "eventName": "Formula 1",
+>>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
       "eventType": "null",
       "isHot": "1",
-      "startTime": "2026/06/13 01:00:00 +0000",
-      "endTime": "2026/06/13 03:00:00 +0000"
+      "startTime": "2026/12/30 18:00:00 +0000",
+      "endTime": "2026/12/30 19:00:00 +0000"
     },
     "catImage": "To",
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "EXTENDED HIG.",
-      "FULL MATCH [TSN]",
-      "FULL MATCH [RU]"
+      "BELGIAN GRAND PRIX - RACE"
     ],
     "formatsNew": [
       {
-        "title": "EXTENDED HIG.",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [TSN]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [RU]",
+        "title": "BELGIAN GRAND PRIX - RACE",
         "logo": ""
       }
     ]
   },
   {
+<<<<<<< HEAD
     "id": 100034,
     "title": "Netherlands vs Japan",
     "cat": "FIFA World Cup",
@@ -641,6 +643,8 @@
     ]
   },
   {
+=======
+>>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     "id": 100070,
     "title": "Türkiye vs USA",
     "cat": "FIFA World Cup",
@@ -962,6 +966,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": 100081,
     "title": "Jordan vs Argentina",
     "cat": "FIFA World Cup",
@@ -1010,6 +1015,8 @@
     ]
   },
   {
+=======
+>>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     "id": 100082,
     "title": "Algeria vs Austria",
     "cat": "FIFA World Cup",
@@ -1275,6 +1282,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": 100088,
     "title": "France vs Sweden",
     "cat": "FIFA World Cup",
@@ -1313,6 +1321,8 @@
     ]
   },
   {
+=======
+>>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     "id": 100089,
     "title": "Mexico vs Ecuador",
     "cat": "FIFA World Cup",
@@ -2034,31 +2044,79 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": 100107,
     "title": "Argentina vs Switzerland",
+=======
+    "id": 100108,
+    "title": "France vs Spain",
+>>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     "cat": "FIFA World Cup",
     "eventInfo": {
-      "teamA": "Argentina",
-      "teamB": "Switzerland",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
-      "eventName": "Argentina vs Switzerland",
+      "teamA": "France",
+      "teamB": "Spain",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+      "eventName": "France vs Spain",
       "eventType": "null",
       "isHot": "1",
-      "startTime": "2026/07/12 01:00:00 +0000",
-      "endTime": "2026/07/12 03:00:00 +0000"
+      "startTime": "2026/07/14 19:00:00 +0000",
+      "endTime": "2026/07/14 21:00:00 +0000"
+    },
+    "catImage": "To",
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "EXTENDED in EN.",
+      "FULL MATCH [AR]",
+      "FULL MATCH [RU]"
+    ],
+    "formatsNew": [
+      {
+        "title": "EXTENDED in EN.",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [AR]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [RU]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 100109,
+    "title": "England vs Argentina",
+    "cat": "FIFA World Cup",
+    "eventInfo": {
+      "teamA": "England",
+      "teamB": "Argentina",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+      "eventName": "England vs Argentina",
+      "eventType": "null",
+      "isHot": "1",
+      "startTime": "2026/07/15 19:00:00 +0000",
+      "endTime": "2026/07/15 21:00:00 +0000"
     },
     "catImage": "To",
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "HIGHLIGHTS",
-      "HIGHLIGHTS [EN]",
-      "EXTENDED in EN.",
-      "EX & PN [FOX]",
-      "ET & PN [ITV]",
+      "FULL MATCH [FOX]",
+      "FULL MATCH [TSN]",
+      "FULL MATCH [BBC]",
+      "FULL MATCH [NOW]",
+      "FULL MATCH [ES]",
+      "FULL MATCH [FR]",
+      "FULL MATCH [ITA]",
+      "FULL MATCH [GE]",
       "FULL MATCH [EN]",
-      "FULL MATCH [ITV]"
+      "1st HALF",
+      "2nd HALF"
     ],
     "formatsNew": [
       {
@@ -2066,19 +2124,35 @@
         "logo": ""
       },
       {
-        "title": "HIGHLIGHTS [EN]",
+        "title": "FULL MATCH [FOX]",
         "logo": ""
       },
       {
-        "title": "EXTENDED in EN.",
+        "title": "FULL MATCH [TSN]",
         "logo": ""
       },
       {
-        "title": "EX & PN [FOX]",
+        "title": "FULL MATCH [BBC]",
         "logo": ""
       },
       {
-        "title": "ET & PN [ITV]",
+        "title": "FULL MATCH [NOW]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [ES]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [FR]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [ITA]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [GE]",
         "logo": ""
       },
       {
@@ -2086,7 +2160,182 @@
         "logo": ""
       },
       {
-        "title": "FULL MATCH [ITV]",
+        "title": "1st HALF",
+        "logo": ""
+      },
+      {
+        "title": "2nd HALF",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 100110,
+    "title": "France vs England",
+    "cat": "FIFA World Cup",
+    "eventInfo": {
+      "teamA": "France",
+      "teamB": "England",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+      "eventName": "France vs England",
+      "eventType": "null",
+      "isHot": "1",
+      "startTime": "2026/07/18 21:00:00 +0000",
+      "endTime": "2026/07/18 23:00:00 +0000"
+    },
+    "catImage": "To",
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "HIGHLIGHTS",
+      "HIGHLIGHTS [ITV]",
+      "HIGHTLIGTS [DE]",
+      "EXTENDED in EN",
+      "MINI MATCH",
+      "FULL MATCH [TSN]",
+      "FULL MATCH [BBC]",
+      "1st HALF",
+      "2nd HALF"
+    ],
+    "formatsNew": [
+      {
+        "title": "HIGHLIGHTS",
+        "logo": ""
+      },
+      {
+        "title": "HIGHLIGHTS [ITV]",
+        "logo": ""
+      },
+      {
+        "title": "HIGHTLIGTS [DE]",
+        "logo": ""
+      },
+      {
+        "title": "EXTENDED in EN",
+        "logo": ""
+      },
+      {
+        "title": "MINI MATCH",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [TSN]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [BBC]",
+        "logo": ""
+      },
+      {
+        "title": "1st HALF",
+        "logo": ""
+      },
+      {
+        "title": "2nd HALF",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 100111,
+    "title": "Spain vs Argentina",
+    "cat": "FIFA World Cup",
+    "eventInfo": {
+      "teamA": "Spain",
+      "teamB": "Argentina",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+      "eventName": "Spain vs Argentina",
+      "eventType": "null",
+      "isHot": "1",
+      "startTime": "2026/07/19 19:00:00 +0000",
+      "endTime": "2026/07/19 21:00:00 +0000"
+    },
+    "catImage": "To",
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "HIGHLIGHTS",
+      "EXTENDED in EN",
+      "EXTENDED in EN",
+      "PRE MATCH EN",
+      "1st HALF",
+      "HALF TIME SHOW",
+      "2nd HALF",
+      "EXTRA TIME",
+      "EXTRA TIME [AR]",
+      "CEREMONY",
+      "CEREMONY [BBC]",
+      "FULL MATCH [TSN]",
+      "FULL MATCH [FOX]",
+      "FULL MATCH [ES]",
+      "FULL MATCH [FR]",
+      "FULL MATCH [RU]"
+    ],
+    "formatsNew": [
+      {
+        "title": "HIGHLIGHTS",
+        "logo": ""
+      },
+      {
+        "title": "EXTENDED in EN",
+        "logo": ""
+      },
+      {
+        "title": "EXTENDED in EN",
+        "logo": ""
+      },
+      {
+        "title": "PRE MATCH EN",
+        "logo": ""
+      },
+      {
+        "title": "1st HALF",
+        "logo": ""
+      },
+      {
+        "title": "HALF TIME SHOW",
+        "logo": ""
+      },
+      {
+        "title": "2nd HALF",
+        "logo": ""
+      },
+      {
+        "title": "EXTRA TIME",
+        "logo": ""
+      },
+      {
+        "title": "EXTRA TIME [AR]",
+        "logo": ""
+      },
+      {
+        "title": "CEREMONY",
+        "logo": ""
+      },
+      {
+        "title": "CEREMONY [BBC]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [TSN]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [FOX]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [ES]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [FR]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [RU]",
         "logo": ""
       }
     ]

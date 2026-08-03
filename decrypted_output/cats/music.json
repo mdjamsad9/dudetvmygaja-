@@ -4,9 +4,16 @@
     "title": "VH1 Music",
     "image": "https://jiotvimages.cdn.jio.com/dare_images/images/VH1_HD.png",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "Server 1"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      }
     ]
   },
   {
@@ -14,11 +21,26 @@
     "title": "9X Jalwa",
     "image": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/othtvy.png",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "server 1",
       "Server 2",
       "Server 3"
+    ],
+    "formatsNew": [
+      {
+        "title": "server 1",
+        "logo": ""
+      },
+      {
+        "title": "Server 2",
+        "logo": ""
+      },
+      {
+        "title": "Server 3",
+        "logo": ""
+      }
     ]
   },
   {
@@ -26,9 +48,16 @@
     "title": "Zing",
     "image": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zing.png",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "s1"
+    ],
+    "formatsNew": [
+      {
+        "title": "s1",
+        "logo": ""
+      }
     ]
   },
   {
@@ -36,10 +65,21 @@
     "title": "Zoom Music",
     "image": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fcnotp.png",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "Server 1",
       "Server 2"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      },
+      {
+        "title": "Server 2",
+        "logo": ""
+      }
     ]
   },
   {
@@ -47,12 +87,31 @@
     "title": "9XM",
     "image": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lwihpv.png",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "server",
       "Server 2",
       "Server 3",
       "server 4"
+    ],
+    "formatsNew": [
+      {
+        "title": "server",
+        "logo": ""
+      },
+      {
+        "title": "Server 2",
+        "logo": ""
+      },
+      {
+        "title": "Server 3",
+        "logo": ""
+      },
+      {
+        "title": "server 4",
+        "logo": ""
+      }
     ]
   },
   {
@@ -60,10 +119,21 @@
     "title": "Music India",
     "image": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fjeoiu.png",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "Server 1",
       "Server 2"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      },
+      {
+        "title": "Server 2",
+        "logo": ""
+      }
     ]
   },
   {
@@ -71,9 +141,16 @@
     "title": "Mastiii",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Qj_5wmEUGiSRaqOq2o88lYkwZvH7Y5y9Rw&usqp=CAU",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "Server 1"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      }
     ]
   },
   {
@@ -81,9 +158,16 @@
     "title": "MTV",
     "image": "https://static.wikia.nocookie.net/beavisandbutthead/images/9/95/MTV_logo.png/revision/latest?cb=20220919094646",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "Server 1"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      }
     ]
   },
   {
@@ -91,9 +175,16 @@
     "title": "MTV HD",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/1200px-MTV_HD_Logo_2013.svg.png",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "Server 1"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      }
     ]
   },
   {
@@ -101,9 +192,16 @@
     "title": "B4U Music",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "Server 1"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      }
     ]
   },
   {
@@ -111,10 +209,21 @@
     "title": "MTV Beats",
     "image": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lrcznw.png",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "Server 1 SD",
       "Server 2 HD jio"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1 SD",
+        "logo": ""
+      },
+      {
+        "title": "Server 2 HD jio",
+        "logo": ""
+      }
     ]
   },
   {
@@ -122,9 +231,16 @@
     "title": "MAA Music USA",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEt0zdG38bEdKrmNnoK1JRP7-j3XcGH2XCYY7pWBbz4xJOxQiwzDAIvrDe&s=10",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "Server 1"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      }
     ]
   },
   {
@@ -132,10 +248,21 @@
     "title": "Sangeet Bangla",
     "image": "https://channelwall-v1.imgix.net/CW/Live/sangeet-bangla/sangeet-bangla-logo.png?ixlib=react-9.3.0&w=400",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "Server 1",
       "Server 2"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      },
+      {
+        "title": "Server 2",
+        "logo": ""
+      }
     ]
   },
   {
@@ -143,9 +270,16 @@
     "title": "Sangeet Marathi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Sangeet_Marathi.jpg",
     "cat": "Music",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "Server 1"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      }
     ]
   }
 ]

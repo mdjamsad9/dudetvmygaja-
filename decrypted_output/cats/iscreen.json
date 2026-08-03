@@ -4,9 +4,16 @@
     "title": "Chokro (2024) - S01",
     "image": "https://img.rockstreamer.com/400xauto/images/IDdqQ6PRcLGBBJVy93iG.jpg",
     "cat": "iScreen",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "HD - 720P"
+    ],
+    "formatsNew": [
+      {
+        "title": "HD - 720P",
+        "logo": ""
+      }
     ]
   },
   {
@@ -14,9 +21,16 @@
     "title": "Shoroter Joba (2024)",
     "image": "https://img.rockstreamer.com/400xauto/images/6yMq9Gom5SuN9Br3tPoY.jpg",
     "cat": "iScreen",
+    "adsLimit": "0",
     "publish": "1",
     "formats": [
       "S1"
+    ],
+    "formatsNew": [
+      {
+        "title": "S1",
+        "logo": ""
+      }
     ]
   }
 ]
