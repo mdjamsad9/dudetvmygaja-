@@ -9,83 +9,54 @@
       "teamB": "Formula 1",
       "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
       "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
-      "eventName": "Formula 1 - HUNGARIAN GRAND PRIX",
+      "eventName": "Formula 1 - Belgium Grand Prix",
       "eventType": "null",
-      "eventBanner": "https://iili.io/Cwq8C7I.png",
+      "eventBanner": "https://iili.io/Cl54sja.png",
       "isHot": "0",
-      "startTime": "2026/07/24 11:30:00 +0000",
-      "endTime": "2026/07/24 16:30:00 +0000"
+      "startTime": "2026/07/17 11:30:00 +0000",
+      "endTime": "2026/07/17 16:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS",
-      "APPLE TV+ FHD",
+      "TSN SPORTS FHD",
       "FANCODE FHD",
-      "SKY via APPLE TV",
-      "TSN Pit Channel",
-      "DRIVER TRACKER",
+      "beIN SPORTS FHD",
       "SportzX F1 HD",
-      "Sportscast FHD",
-      "APPLE TV 4K",
-      "APPLE TV FHD",
-      "SKY SPORTS FHD",
+      "SPX LIVE FHD",
       "FOX SPORTS FHD",
-      "RUSSIA FEED",
+      "APPLE TV FHD",
       "DAZN ESPANOL",
       "SKY ITALY FHD",
-      "SKY GERMAN FHD",
-      "SD SERVER",
-      "SD SERVER [SWE]",
+      "LOW RES",
       "F1 GERMANY [USA]",
       "SKY F1 ITALY [USA]",
+      "Tipik FRANCE FHD",
       "SKY SPORTS HD",
+      "SKY SPORTS F1 UHD",
       "ELEVEN SPORTS",
+      "Sky F1 DE",
       "Fox Sports - AQ"
     ],
     "formatsNew": [
       {
-        "title": "TSN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV+ FHD",
-        "logo": ""
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "FANCODE FHD",
-        "logo": ""
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
-        "title": "SKY via APPLE TV",
-        "logo": ""
-      },
-      {
-        "title": "TSN Pit Channel",
-        "logo": ""
-      },
-      {
-        "title": "DRIVER TRACKER",
+        "title": "beIN SPORTS FHD",
         "logo": ""
       },
       {
         "title": "SportzX F1 HD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
-        "title": "Sportscast FHD",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV 4K",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS FHD",
+        "title": "SPX LIVE FHD",
         "logo": ""
       },
       {
@@ -93,7 +64,7 @@
         "logo": ""
       },
       {
-        "title": "RUSSIA FEED",
+        "title": "APPLE TV FHD",
         "logo": ""
       },
       {
@@ -105,15 +76,7 @@
         "logo": ""
       },
       {
-        "title": "SKY GERMAN FHD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER [SWE]",
+        "title": "LOW RES",
         "logo": ""
       },
       {
@@ -125,16 +88,28 @@
         "logo": ""
       },
       {
-        "title": "SKY SPORTS HD",
+        "title": "Tipik FRANCE FHD",
         "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "SKY SPORTS F1 UHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "ELEVEN SPORTS",
         "logo": ""
       },
       {
-        "title": "Fox Sports - AQ",
+        "title": "Sky F1 DE",
         "logo": ""
+      },
+      {
+        "title": "Fox Sports - AQ",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       }
     ]
   },
@@ -217,7 +192,6 @@
     "image": "o",
     "cat": "UFC",
     "eventInfo": {
-<<<<<<< HEAD
       "teamA": "C. McGregor",
       "teamB": "M. Holloway",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/471736/image",
@@ -237,24 +211,6 @@
       "PARAMOUNT+ ES FHD",
       "PARAMOUNT+ BR FHD",
       "PARAMOUNT+ AQ",
-=======
-      "teamA": "M. Ankalaev",
-      "teamB": "B. Guskov",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/461502/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/471452/image",
-      "eventName": "UFC Fight Night: Ankalaev vs Guskov",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 13:00:00 +0000",
-      "endTime": "2026/07/25 21:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportsNet FHD",
-      "PARAMOUNT+ HD",
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
       "PARAMOUNT+ S2",
       "PARAMOUNT+ BR",
       "SD TV (USE VPN)",
@@ -262,7 +218,6 @@
     ],
     "formatsNew": [
       {
-<<<<<<< HEAD
         "title": "PARAMOUNT+ EN FHD",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
@@ -280,13 +235,6 @@
       },
       {
         "title": "PARAMOUNT+ AQ",
-=======
-        "title": "SportsNet FHD",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ HD",
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
         "logo": ""
       },
       {
@@ -308,52 +256,6 @@
     ]
   },
   {
-<<<<<<< HEAD
-=======
-    "id": 50005,
-    "title": "WWE NXT",
-    "image": "o",
-    "cat": "WWE",
-    "eventInfo": {
-      "teamA": "NXT",
-      "teamB": "NXT",
-      "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
-      "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
-      "eventName": "🥊 WWE NXT",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/29 00:00:00 +0000",
-      "endTime": "2026/07/29 02:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX WWE",
-      "Backup SD",
-      "HD SERVER",
-      "Tap Sports"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX WWE",
-        "logo": ""
-      },
-      {
-        "title": "Backup SD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "Tap Sports",
-        "logo": ""
-      }
-    ]
-  },
-  {
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     "id": 50006,
     "title": "WWE",
     "image": "o",
@@ -366,13 +268,14 @@
       "eventName": "AEW Dynamite",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/30 00:00:00 +0000",
-      "endTime": "2026/07/30 02:00:00 +0000"
+      "startTime": "2026/07/16 00:00:00 +0000",
+      "endTime": "2026/07/16 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "TSN SPORTS",
+      "SportzX WWE",
       "Fox Sports Premium",
       "BACKUP HD",
       "BACKUP SD"
@@ -381,6 +284,10 @@
       {
         "title": "TSN SPORTS",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "SportzX WWE",
+        "logo": ""
       },
       {
         "title": "Fox Sports Premium",
@@ -410,13 +317,8 @@
       "eventType": "null",
       "eventBanner": "https://iili.io/BihxDjj.png",
       "isHot": "0",
-<<<<<<< HEAD
       "startTime": "2026/07/10 12:30:00 +0000",
       "endTime": "2026/07/10 16:30:00 +0000"
-=======
-      "startTime": "2026/07/24 12:30:00 +0000",
-      "endTime": "2026/07/24 16:30:00 +0000"
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     },
     "adsLimit": "0",
     "publish": "1",
@@ -453,13 +355,8 @@
       "eventName": "🥊 WWE Monday Night RAW",
       "eventType": "null",
       "isHot": "0",
-<<<<<<< HEAD
       "startTime": "2026/07/14 00:00:00 +0000",
       "endTime": "2026/07/14 02:30:00 +0000"
-=======
-      "startTime": "2026/07/29 00:00:00 +0000",
-      "endTime": "2026/07/29 02:30:00 +0000"
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     },
     "adsLimit": "0",
     "publish": "1",
@@ -512,13 +409,8 @@
       "eventType": "null",
       "eventBanner": "https://iili.io/B60OM3Q.gif",
       "isHot": "0",
-<<<<<<< HEAD
       "startTime": "2026/07/11 00:00:00 +0000",
       "endTime": "2026/07/11 03:00:00 +0000"
-=======
-      "startTime": "2026/07/25 00:00:00 +0000",
-      "endTime": "2026/07/25 03:00:00 +0000"
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     },
     "adsLimit": "0",
     "publish": "1",
@@ -564,7 +456,6 @@
   },
   {
     "id": 50019,
-<<<<<<< HEAD
     "title": "Wimbledon",
     "image": "o",
     "cat": "Tennis",
@@ -579,27 +470,10 @@
       "isHot": "0",
       "startTime": "2026/07/12 12:00:00 +0000",
       "endTime": "2026/07/12 20:30:00 +0000"
-=======
-    "title": "Tour de France",
-    "image": "o",
-    "cat": "Tour de France",
-    "eventInfo": {
-      "teamA": "Tour de France",
-      "teamB": "Tour de France",
-      "teamAFlag": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png",
-      "teamBFlag": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png",
-      "eventName": "Tour de France",
-      "eventType": "null",
-      "eventBanner": "https://iili.io/Cj06Rqv.png",
-      "isHot": "0",
-      "startTime": "2026/07/23 10:50:00 +0000",
-      "endTime": "2026/07/23 16:30:00 +0000"
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     },
     "adsLimit": "10",
     "publish": "1",
     "formats": [
-<<<<<<< HEAD
       "TSN SPORTS FHD",
       "TSN4 SPORTS FHD",
       "SP0TV HD",
@@ -675,216 +549,11 @@
       },
       {
         "title": "SKY Wimbledon 6 [Italy]",
-=======
-      "EUROSPORT1 FHD",
-      "EUROSPORT2 FHD",
-      "EUROSPORT1 FHD",
-      "EUROSPORT2 FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "EUROSPORT1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "EUROSPORT2 FHD",
-        "logo": ""
-      },
-      {
-        "title": "EUROSPORT1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "EUROSPORT2 FHD",
         "logo": ""
       }
     ]
   },
   {
-    "id": 50054,
-    "title": "CFL",
-    "image": "o",
-    "cat": "CFL",
-    "eventInfo": {
-      "teamA": "Saskatchewan",
-      "teamB": "Edmonton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4438/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4434/image",
-      "eventName": "Saskatchewan vs Edmonton Elks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/24 01:00:00 +0000",
-      "endTime": "2026/07/24 04:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS",
-      "TSN4 SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "TSN4 SPORTS",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50060,
-    "title": "West Indies vs Pakistan",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "WI",
-      "teamB": "PAK",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-      "eventName": "West Indies vs Pakistan",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 14:00:00 +0000",
-      "endTime": "2026/07/25 22:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FANCODE FHD",
-      "TAPMAD FHD",
-      "TNT SPORTS HD",
-      "FANCODE - SD",
-      "FANCODE - IN",
-      "FANCODE - BD"
-    ],
-    "formatsNew": [
-      {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "TAPMAD FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "FANCODE - SD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "FANCODE - BD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ]
-  },
-  {
-    "id": 50061,
-    "title": "LPL",
-    "image": "o",
-    "cat": "Lanka Premier League",
-    "eventInfo": {
-      "teamA": "LPL",
-      "teamB": "LPL",
-      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16365/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16365/image",
-      "eventName": "Lanka Premier League",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 14:00:00 +0000",
-      "endTime": "2026/07/23 17:59:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW FHD",
-      "WILLOW - ALT",
-      "FANCODE - IN",
-      "FANCODE - BD"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "FANCODE - BD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ]
-  },
-  {
-    "id": 50062,
-    "title": "Hundred MEN",
-    "image": "o",
-    "cat": "The Hundred",
-    "eventInfo": {
-      "teamA": "LNS",
-      "teamB": "MSG",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377175/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377173/image",
-      "eventName": "London Spirit vs Manchester Super Giants",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 17:30:00 +0000",
-      "endTime": "2026/07/23 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW FHD",
-      "CRICKET FHD",
-      "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "LOW SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "CRICKET FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
-        "logo": ""
-      }
-    ]
-  },
-  {
-<<<<<<< HEAD
     "id": 50059,
     "title": "England W vs India W",
     "image": "o",
@@ -899,28 +568,11 @@
       "isHot": "0",
       "startTime": "2026/07/12 10:00:00 +0000",
       "endTime": "2026/07/12 17:15:00 +0000"
-=======
-    "id": 50063,
-    "title": "Hundred WOMEN",
-    "image": "o",
-    "cat": "The Hundred",
-    "eventInfo": {
-      "teamA": "The Hundred Women",
-      "teamB": "The Hundred Women",
-      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
-      "eventName": "The Hundred Women",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 13:45:00 +0000",
-      "endTime": "2026/07/23 17:00:00 +0000"
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "WILLOW FHD",
-<<<<<<< HEAD
       "SKY CRICKET FHD",
       "SKY SPORT NZ",
       "WILLOW - ALT",
@@ -928,20 +580,11 @@
       "SonyLiv",
       "LOW SERVER",
       "SONY TEN 5 - IN"
-=======
-      "CRICKET FHD",
-      "WILLOW - ALT",
-      "SKY SPORT",
-      "TAPMAD FHD",
-      "SonyLiv",
-      "LOW SERVER"
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     ],
     "formatsNew": [
       {
         "title": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-<<<<<<< HEAD
       },
       {
         "title": "SKY CRICKET FHD",
@@ -1592,38 +1235,11 @@
       {
         "title": "TSN FRANCE FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-=======
-      },
-      {
-        "title": "CRICKET FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY SPORT",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "TAPMAD FHD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
       }
     ]
   },
   {
     "id": 50075,
-<<<<<<< HEAD
     "title": "Melbourne Storm vs Gold Coast Titans",
     "image": "o",
     "cat": "Rugby",
@@ -1637,26 +1253,10 @@
       "isHot": "0",
       "startTime": "2026/07/12 08:15:00 +0000",
       "endTime": "2026/07/12 10:45:00 +0000"
-=======
-    "title": "Atlanta Braves vs Padres",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Braves",
-      "teamB": "Padres",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-      "eventName": "Atlanta Braves vs San Diego Padres",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 16:15:00 +0000",
-      "endTime": "2026/07/23 19:15:00 +0000"
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-<<<<<<< HEAD
       "FOX SPORTS FHD",
       "SKY SPORTS SD"
     ],
@@ -1665,565 +1265,6 @@
         "title": "FOX SPORTS FHD",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
-=======
-      "SportzX MLB",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50076,
-    "title": "Guardians vs Minnesota Twins",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Guardians",
-      "teamB": "Twins",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-      "eventName": "Cleveland Guardians vs Minnesota Twins",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 17:10:00 +0000",
-      "endTime": "2026/07/23 20:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX MLB",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50077,
-    "title": "Blue Jays vs Tampa Bay Rays",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Blue Jays",
-      "teamB": "Rays",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "eventName": "Toronto Blue Jays vs Tampa Bay Rays",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 19:07:00 +0000",
-      "endTime": "2026/07/23 22:07:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX MLB",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX MLB",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50078,
-    "title": "Cardinals vs Diamondbacks",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Cardinals",
-      "teamB": "Diamondbacks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-      "eventName": "Cardinals vs Diamondbacks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 21:15:00 +0000",
-      "endTime": "2026/07/24 00:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50079,
-    "title": "Detroit Tigers vs Royals",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Tigers",
-      "teamB": "Royals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-      "eventName": "Detroit Tigers vs Kansas City Royals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 22:40:00 +0000",
-      "endTime": "2026/07/24 01:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50085,
-    "title": "Global Super League",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "GSL",
-      "teamB": "GSL",
-      "teamAFlag": "https://iili.io/COqrV0F.png",
-      "teamBFlag": "https://iili.io/COqrV0F.png",
-      "eventName": "Global Super League",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/24 11:00:00 +0000",
-      "endTime": "2026/07/24 17:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      }
-    ]
-  },
-  {
-    "id": 50086,
-    "title": "Parramatta vs Penrith Panthers",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "Parramatta",
-      "teamB": "Penrith",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4261/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4262/image",
-      "eventName": "Parramatta vs Penrith Panthers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 09:50:00 +0000",
-      "endTime": "2026/07/23 12:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX SPORTS",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50087,
-    "title": "CWC LEAGUE",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "Netherlands",
-      "teamB": "Nepal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187840/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-      "eventName": "Netherlands vs Nepal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 09:00:00 +0000",
-      "endTime": "2026/07/23 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "ICC TV - FHD",
-      "FANCODE - IN",
-      "FANCODE - BD"
-    ],
-    "formatsNew": [
-      {
-        "title": "ICC TV - FHD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "FANCODE - BD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ]
-  },
-  {
-    "id": 50088,
-    "title": "Beşiktaş JK vs Midtjylland",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Beşiktaş",
-      "teamB": "Midtjylland",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1289/image",
-      "eventName": "Beşiktaş JK vs Midtjylland",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 18:00:00 +0000",
-      "endTime": "2026/07/23 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50089,
-    "title": "St. Gallen vs Benfica",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "St. Gallen",
-      "teamB": "Benfica",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2442/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-      "eventName": "St. Gallen vs Benfica",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 18:00:00 +0000",
-      "endTime": "2026/07/23 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50090,
-    "title": "Twente vs Ferencváros",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Twente",
-      "teamB": "Ferencváros",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1925/image",
-      "eventName": "Twente vs Ferencváros",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 18:00:00 +0000",
-      "endTime": "2026/07/23 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50091,
-    "title": "Vojvodina vs AFC Ajax",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Vojvodina",
-      "teamB": "Ajax",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5150/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-      "eventName": "Vojvodina vs AFC Ajax",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 18:00:00 +0000",
-      "endTime": "2026/07/23 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50092,
-    "title": "Córdoba vs Sevilla",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Córdoba",
-      "teamB": "Sevilla",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2850/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image",
-      "eventName": "Córdoba vs Sevilla",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 19:00:00 +0000",
-      "endTime": "2026/07/23 21:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50093,
-    "title": "Botafogo vs Vitória",
-    "image": "o",
-    "cat": "Brasileirão",
-    "eventInfo": {
-      "teamA": "Botafogo",
-      "teamB": "Vitória",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image",
-      "eventName": "Botafogo vs Vitória",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 22:30:00 +0000",
-      "endTime": "2026/07/24 00:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIERER BR"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIERER BR",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50094,
-    "title": "Corinthians vs Remo",
-    "image": "o",
-    "cat": "Brasileirão",
-    "eventInfo": {
-      "teamA": "Corinthians",
-      "teamB": "Remo",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
-      "eventName": "Corinthians vs Remo",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 22:30:00 +0000",
-      "endTime": "2026/07/24 00:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIERER BR"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIERER BR",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50095,
-    "title": "Bolívar vs Grêmio",
-    "image": "o",
-    "cat": "CON. Sudamericana",
-    "eventInfo": {
-      "teamA": "Bolívar",
-      "teamB": "Grêmio",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7059/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
-      "eventName": "Bolívar vs Grêmio",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 22:00:00 +0000",
-      "endTime": "2026/07/24 00:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN SPORTS",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50096,
-    "title": "Santa Fe vs Caracas F.C.",
-    "image": "o",
-    "cat": "CON. Sudamericana",
-    "eventInfo": {
-      "teamA": "Santa Fe",
-      "teamB": "Caracas",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6116/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6230/image",
-      "eventName": "Santa Fe vs Caracas F.C.",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/24 00:30:00 +0000",
-      "endTime": "2026/07/24 02:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN SPORTS",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50097,
-    "title": "Boca Juniors vs O'Higgins",
-    "image": "o",
-    "cat": "CON. Sudamericana",
-    "eventInfo": {
-      "teamA": "Boca Juniors",
-      "teamB": "O'Higgins",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3163/image",
-      "eventName": "Boca Juniors vs O'Higgins",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/24 00:30:00 +0000",
-      "endTime": "2026/07/24 02:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN SPORTS",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Dynamo Kyiv vs PAOK",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Dynamo Kyiv",
-      "teamB": "PAOK",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3305/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3251/image",
-      "eventName": "Dynamo Kyiv vs PAOK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/23 17:00:00 +0000",
-      "endTime": "2026/07/23 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX Live"
-    ],
-    "formatsNew": [
->>>>>>> bd3b59a2c4b4b30f88562b3e369b286fa25cb0c9
       {
         "title": "SKY SPORTS SD",
         "logo": ""

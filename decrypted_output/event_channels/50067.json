@@ -1,156 +1,16 @@
 [
   {
-    "api": "",
-    "link": "https://cast.zlive.st/p/a1e123c50c75cf09/index.m3u8?|referer=https://zlive.st/",
-    "logo": "",
-    "title": "Fusball 4K MULTI",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/53550/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-    "title": "ITV SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8",
-    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-    "title": "Fox Sports UHD [US VPN]",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=d279c6097dbca555ed36b0233713642d&wsABSTime=1784182720&wsSession=436e9186b699ddc3ed613af6-178448347186941&wsIPSercert=4a098db2100d1784a4dca047bd3f5e4e&wsBindIP=2&wsserid=1168201446953502087",
-    "logo": "",
-    "title": "SportzX Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a80c28515fc600b375de3e273/main.m3u8?|referer=https://iscreen.com.bd/",
-    "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd",
-    "title": "ISCREEN BD FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://pulltx.cqsycw.com/live/hd-en-6MvYMRTGwJ8SJyq4sg.m3u8?txSecret=c082db0e0a70af35d26de09ab7989d11&txTime=6A5D68C0",
-    "logo": "",
-    "title": "FAST SERVER FR",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://cua.atharican.shop/menze1.m3u8",
-    "logo": "",
-    "title": "beIN MAX HD",
-    "type": "0"
-  },
-  {
     "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
     "title": "FOX ONE - AQ",
     "type": "1"
   },
   {
-    "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-    "link": "https://anak-fifuck.donasi-dulu-colong-kemudian.workers.dev/Content/DASH/Live/channel(fifa1)/master.mpd?hdntl=st=1784480346~exp=1784570346~acl=/Content/DASH/Live/channel(fifa1)/*~id=feeywxgMAObNR5wIftrBt2PkP0I4nspAy0b2-z_bEQ8S~hmac=d5a4dad519e21881367b63417ca801a5007c3d726bbbe15b14825b65787c2c89",
-    "logo": "",
-    "title": "UNIFY TV FHD",
-    "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://live-ancdn-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMDYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0NTA4NjEyLCJpYXQiOjE3ODQ0ODcwMTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYmE2Mzc2NDAtN2I0ZS00ZTBmLTkwYjktMzI1ZDllM2ZiYTMwIiwicGF0aCI6Ii9saXZlL2YobGwpL2dsb2JvLWZpZmEyNi9wbGF5bGlzdC5tM3U4In0.rmVpOmu-gGUslWqy0NTr34CWJq8RTvcci-oEqEdzNBZVBz7sF9YZNR-ebxS4IWZaCR68SyiscB42dMquOepK4PW6-sC8DkmJxG9edkqUslEA8KG3vRm-82XTcYn8cVz_9LHBo3EOrRNuojS0_Bji-dmYrVjYYWJmtqkWAYmdjvxFJlnKYimu025y_PAMUmZtf_t_4zs8TTXQ3WlVFOh3krV4yM9_BOGmXBS5lBDFO1-at1nysGtjXqQ33FlWWa8wMWd8OJnfFIZcq8eKUjY56oJji_09VpUMeqkLKw-yn-IIx5MGpPPJr2C7NUSAKj50Ur4cskJb3us2cy2Q_QR5pA/live/f(ll)/globo-fifa26/playlist.m3u8",
-    "logo": "",
-    "title": "GLOBOSP BR",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/53540/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-    "title": "TSN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://pullsgp.yyzb456.top/live/stream-525132_lhd.m3u8",
-    "logo": "",
-    "title": "CCTV SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
-    "logo": "",
-    "title": "MUNIDAL HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://rdcstream.life/live/cazetv/index.m3u8?|referer=https://playerembed.xyz/",
-    "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-    "title": "CAZE TV HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://cast.zlive.st/p/8b7d49cd99094663/index.m3u8?|referer=https://zlive.st/",
-    "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-    "title": "TELEMUNDO FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://cast.zlive.st/p/b8d12bcd88cf5955/index.m3u8?|referer=https://zlive.st/",
-    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-    "title": "Fox Sports 4K",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://cast.zlive.st/p/d786921a17ec5daf/index.m3u8?|referer=https://zlive.st/",
+    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
     "title": "TSN SPORTS FHD",
-    "type": "0"
-  },
-  {
-    "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "CANAL5",
-    "type": "1"
-  },
-  {
-    "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/p19tzj1781340041.png",
-    "title": "TVE La 1 FHD",
-    "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://cp11.adabmedia.com/hls2/sport.m3u8",
-    "logo": "",
-    "title": "FUSSBALL TV FHD",
-    "type": "0"
-  },
-  {
-    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "D Sports FHD",
-    "type": "1"
-  },
-  {
-    "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-    "title": "TSN4 SPORTS FHD",
     "type": "1"
   },
   {
@@ -161,36 +21,57 @@
     "type": "1"
   },
   {
-    "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "CTV SPORTS FHD",
+    "api": "",
+    "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783522807~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5HUBe2hbLrYkwFeZGjo57lceP2xaxLOlyi4MjaG9DFE2hfIBJf4qbjX-ShH7myYdS_hSR_50BOh7p53n-BAaSAI",
+    "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/toffee-live.png",
+    "title": "TOFFE BDIX (BD)",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
+    "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd",
+    "title": "Binge BDIX (BD)",
+    "type": "0"
+  },
+  {
+    "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "title": "TSN4 SPORTS FHD",
     "type": "1"
   },
   {
-    "api": "",
-    "link": "http://stream.mcquack.net/72/index.m3u8",
+    "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
+    "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
     "logo": "",
-    "title": "QAZ SPORTS HD",
-    "type": "0"
+    "title": "GOLTV VIVO",
+    "type": "1"
   },
   {
-    "api": "",
-    "link": "https://edgestream3.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streame.center/&Origin=https://streame.center",
-    "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-    "title": "TELEMUNDO HD",
-    "type": "0"
+    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "D Sports FHD",
+    "type": "1"
   },
   {
-    "api": "",
-    "link": "https://pulltx.cqsycw.com/live/sd-6MvYMRTGwJ8SJyq4sg.m3u8?txSecret=ea15b6f0b73b3745cd552d03749fd528&txTime=6A5D4598",
+    "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "FAST [NO Comment]",
-    "type": "0"
+    "title": "TVE La 1 FHD",
+    "type": "1"
+  },
+  {
+    "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+    "logo": "",
+    "title": "WC TV FHD",
+    "type": "1"
   },
   {
     "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-    "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/d9ac1df1-5086-4e2b-bbcf-68c442a09900:GRQ/manifest.mpd",
+    "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/88fd3886-51db-45b1-a9fd-a6c8db5a50ae:GRQ/manifest.mpd",
     "logo": "",
     "title": "RTE SPORTS FHD",
     "type": "1"
@@ -203,31 +84,45 @@
     "type": "1"
   },
   {
-    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-    "title": "TSN SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "48afc63fa0ecccc3a71f46d3fda20249:c7cd8801e238a263fe4349a95682b83b",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgmw19qjux/out/v1/c6ac7e638a9d4998891ae85aba377c59/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FOX FHD HDR",
+    "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://iili.io/CFFRvqJ.png",
+    "title": "SporTV BR FHD",
     "type": "1"
   },
   {
     "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xbfi5dhehl/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
     "title": "FOX SPORTS 4K",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+    "link": "https://inproviszon.st/itv1-uk.m3u8?|Referer=https://vileembeds.pages.dev/",
     "logo": "",
-    "title": "IRIB 4K",
+    "title": "ITV SPORTS FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/53029/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
+    "title": "ITV SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://inproviszon.st/beinsportsmax-sa.m3u8?|Referer=https://vileembeds.pages.dev/",
+    "logo": "",
+    "title": "ARABIC LIVE FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://inproviszon.st/telemund0-usa.m3u8?|Referer=https://vileembeds.pages.dev/",
+    "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+    "title": "TELEMUNDO FHD",
     "type": "0"
   },
   {
@@ -239,7 +134,7 @@
   },
   {
     "api": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
-    "link": "https://npo-fsly-2.cdn.streamgate.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODQ1NzI4OTAsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiMjFkOTEwZiJ9.53O1RGi32yCOA41QIPxMojfQrlJKzQXGXDXPlc4DjdU/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
+    "link": "https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
     "logo": "",
     "title": "NPO1 DUTCH FHD",
     "type": "1"
@@ -250,6 +145,27 @@
     "logo": "",
     "title": "M6 FRANCE (USA)",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://inproviszon.st/tsn1-ca.m3u8?|referer=https://vileembeds.pages.dev/",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "title": "TSN SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://inproviszon.st/fox-usa.m3u8?|referer=https://vileembeds.pages.dev/",
+    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+    "title": "FOX SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "OK",
+    "logo": "",
+    "title": "FAST SERVER",
+    "type": "0"
   },
   {
     "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
@@ -275,23 +191,23 @@
   {
     "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
     "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-    "logo": "",
+    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
     "title": "FOX ONE [ALT]",
     "type": "1"
   },
   {
     "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-    "link": "https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+    "link": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xbfi5dhehl/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
     "logo": "",
     "title": "FOX 4K [ALT]",
     "type": "1"
   },
   {
-    "api": "0022f1ae18e8d0b0dca8cb8742661df3:6e41d24cbdb50e20268ccf618965f286",
-    "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021788-723646-49139eed9be)/master_2hr.mpd?c3.ri=6a5d191b_Q1ZYMDc_0_Q0xPVURGUk9OVA_8b76dfe9fd0e%3A0&aws.sessionId=4492647b-279f-4044-b83e-07b909ab5a7e&ck=eyIwMDIyZjFhZTE4ZThkMGIwZGNhOGNiODc0MjY2MWRmMyI6IjZlNDFkMjRjYmRiNTBlMjAyNjhjY2Y2MTg5NjVmMjg2In0%3D",
+    "api": "",
+    "link": "OK",
     "logo": "",
     "title": "PEACOCK FHD [ALT]",
-    "type": "1"
+    "type": "0"
   },
   {
     "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
@@ -302,23 +218,100 @@
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/53537/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "BBC SPORTS HD",
+    "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://vileembeds.pages.dev/",
+    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+    "title": "FOX ONE 4K",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/53539/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://xyzstreams.st/",
+    "logo": "",
+    "title": "FOX 4K LIVE",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://inproviszon.st/tsn-4k.m3u8?|referer=https://vileembeds.pages.dev/",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "title": "TSN SPORTS 4K",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://inproviszon.st/bein4k-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+    "logo": "",
+    "title": "beIN ARABIC 4K",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+    "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+    "title": "TELEMUNDO FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://inproviszon.st/daznmundial-es.m3u8?|referer=https://vileembeds.pages.dev/",
+    "logo": "",
+    "title": "DAZN MUNDIAL",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8?|referer=https://vileembeds.pages.dev/",
+    "logo": "",
+    "title": "FUSSBALL TV UHD",
+    "type": "0"
+  },
+  {
+    "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
+    "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
+    "logo": "",
+    "title": "FUSSBALL TV1 4K",
+    "type": "1"
+  },
+  {
+    "api": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827",
+    "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
+    "logo": "",
+    "title": "FUSSBALL TV2 4K",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+    "logo": "",
+    "title": "IRIB 4K",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/53031/load-playlist?|Referer=https://gooz.aapmains.net",
     "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
     "title": "FOX SPORTS HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/53538/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "https://chatgpt.hereisman.net/playlist/53033/load-playlist?|Referer=https://gooz.aapmains.net",
     "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
     "title": "TSN SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
+    "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd",
+    "title": "ISCREEN BD (BDIX)",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+    "logo": "",
+    "title": "SportzX Live",
     "type": "0"
   },
   {
@@ -400,35 +393,35 @@
   },
   {
     "api": "",
-    "link": "http://193.47.62.55/hls/yyyyCZzsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.55/hls/QJMMMCZzsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "SD SERVER [ENG]",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://pul-tenm.gkykp.com/live/hd-en-1-4459811.m3u8?txSecret=e60ed72ab51e21ba94f1e577fb14b91b&txTime=6A542738",
+    "link": "https://pulltx.bldoll.com/live/sd-6MvYMRTH6zoT7oKg9C.m3u8?txSecret=4285bc57732b25f48505ec85a2cee94d&txTime=6A516D7E",
     "logo": "",
     "title": "ENG SERVER SD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.47/hls/yyyyCZckkkqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.59/hls/QJMMMCZckkkqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "SD SERVER  [SWE]",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.51/hls/yyyyCZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.59/hls/QJMMMCZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
     "title": "beiN SPORTS FR",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.55/hls/yyyyCZckkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.51/hls/QJMMMCZckkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "ESPANOL SD",
     "type": "0"
@@ -446,5 +439,26 @@
     "logo": "",
     "title": "SomoyTV BDIX",
     "type": "0"
+  },
+  {
+    "api": "711e06ba1ea2ab903ef6ce852b0d2801:ea2e3766b23d867d6afd3ba70358bf33",
+    "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/eexguwiypd/out/v1/ed861e9690974c6394d0b865850f7376/17b2bb3c-cac9-4778-8f7f-2351154ded64-cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "title": "TSN HDR",
+    "type": "1"
+  },
+  {
+    "api": "9d608811a2aa00a1c17151bf2c85d8c8:f8be5b2c41d9ab006462044763cd5ea0",
+    "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rhv9vhxjr8/out/v1/a3d68368d1c74ccdab284b9f799fbcc6/2e8c87fa-123b-4477-be26-be97241cd16a-cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "title": "TSN Espanol AQ",
+    "type": "1"
+  },
+  {
+    "api": "647d7e5a44751b08641c1de5daa0e398:c4f950d89e8f3b8ec27f91a75367d650",
+    "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/4oyauil6pz/out/v1/53e824228c9d4ff2884cffd2eda4c433/2bb701e9-147c-4e8b-83dd-7003c7a48ab8-cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "title": "TSN Arabic AQ",
+    "type": "1"
   }
 ]
